@@ -144,6 +144,9 @@ class DataCrawler():
         isDirectory = False
         if (self.URL_suffix == link[-5:]):
             return True
+        elif(link[-1:] == "/"):
+            print("dfasfdasfafafsdfdf")
+            return True
         for directory in self.DIRECTORY:
             if (directory in link):
                 isDirectory = True
