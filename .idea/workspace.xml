@@ -14,11 +14,43 @@
       <file leaf-file-name="data_crawler.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data_crawler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="71" column="32" lean-forward="true" selection-start-line="71" selection-start-column="32" selection-end-line="71" selection-end-column="32" />
+            <state relative-caret-position="-1559">
+              <caret line="60" column="37" selection-start-line="60" selection-start-column="37" selection-end-line="60" selection-end-column="37" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tree_diagiam.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tree_diagiam.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="tree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/treelib/tree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="259" selection-start-line="259" selection-end-line="259" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="element.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/bs4/element.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="193">
+              <caret line="950" selection-start-line="950" selection-end-line="950" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="training.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/training.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="112" selection-start-column="112" selection-end-column="112" />
             </state>
           </provider>
         </entry>
@@ -67,26 +99,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Organization Chart</find>
-      <find>Introduction</find>
-      <find>static</find>
-      <find>doc</find>
-      <find>get_response</find>
-      <find>writeToJSONFile</find>
-      <find>TkinterGUIExample</find>
-      <find>Here</find>
-      <find>parseTable</find>
-      <find>href</find>
-      <find>get_HTML_From_URL</find>
       <find>href=&quot;/department/citd/Documents/Public Forms/Computer Data Maintenance Request Form.dot&quot;</find>
       <find>DOC_FORMATS</find>
       <find>isDOC</find>
-      <find>parseLink</find>
       <find>-------------------------------------------------------</find>
       <find>DOC</find>
-      <find>isDirectory</find>
       <find>DIRECTORY</find>
       <find>print</find>
+      <find>Award / Certificate</find>
+      <find>getJSON_Tree</find>
+      <find>get_HTML_From_URL</find>
+      <find>self.dataTree.show()</find>
+      <find>show()</find>
+      <find>show</find>
+      <find>Service Level Agreement</find>
+      <find>Hi</find>
+      <find>dfgdfgdgdfgdfgd</find>
+      <find>Archive</find>
+      <find>Technology Update</find>
+      <find>Services</find>
+      <find>HTML</find>
+      <find>HTML_FROM</find>
+      <find>Service Level Results</find>
+      <find>praseLink</find>
+      <find>Service Level Result</find>
+      <find>parseTable</find>
+      <find>parseLink</find>
+      <find>create_node</find>
+      <find>aspx</find>
+      <find>URL_suffix</find>
+      <find>isDirectory</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -102,9 +144,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="38" />
-    <option name="y" value="79" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="626" />
+    <option name="y" value="132" />
     <option name="width" value="1527" />
     <option name="height" value="927" />
   </component>
@@ -245,16 +287,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="38" y="79" width="1527" height="927" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22898743" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20595238" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3296433" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.44157442" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="1.0" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -272,6 +313,18 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data_crawler.py</url>
+          <line>161</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data_crawler.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
@@ -279,7 +332,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="4" />
+      <option name="time" value="12" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -299,9 +352,6 @@
           <caret line="180" selection-start-line="180" selection-end-line="180" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/training.json">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -330,6 +380,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tree.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1482" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/bs4/element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="950" selection-start-line="950" selection-end-line="950" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/treelib/tree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
@@ -337,10 +399,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tree_diagiam.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="112" selection-start-column="112" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/data_crawler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="71" column="32" lean-forward="true" selection-start-line="71" selection-start-column="32" selection-end-line="71" selection-end-column="32" />
+        <state relative-caret-position="-1559">
+          <caret line="60" column="37" selection-start-line="60" selection-start-column="37" selection-end-line="60" selection-end-column="37" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
