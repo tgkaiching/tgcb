@@ -1,7 +1,314 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28795e38-4368-443d-a4ab-7f04d6e78206" name="Default" comment="" />
+    <list default="true" id="28795e38-4368-443d-a4ab-7f04d6e78206" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/itsm_crawler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/itsm_crawler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tgChatbot.py" beforeDir="false" afterPath="$PROJECT_DIR$/tgChatbot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tree_diagiam.json" beforeDir="false" afterPath="$PROJECT_DIR$/tree_diagiam.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/ChatterBot-0.8.7.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/ChatterBot-0.8.7.dist-info/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/ChatterBot-0.8.7.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/ChatterBot-0.8.7.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/ChatterBot-0.8.7.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/ChatterBot-0.8.7.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/ChatterBot-0.8.7.dist-info/zip-safe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/SQLAlchemy-1.2.9-py3.6.egg-info/PKG-INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/SQLAlchemy-1.2.9-py3.6.egg-info/SOURCES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/SQLAlchemy-1.2.9-py3.6.egg-info/dependency_links.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/SQLAlchemy-1.2.9-py3.6.egg-info/installed-files.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/SQLAlchemy-1.2.9-py3.6.egg-info/requires.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/SQLAlchemy-1.2.9-py3.6.egg-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/__main__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/adapters.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/adapters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/chatterbot.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/chatterbot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/comparisons.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/comparisons.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/constants.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/conversation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/corpus.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/ext/django_chatterbot/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/ext/django_chatterbot/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/ext/django_chatterbot/abstract_models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/ext/django_chatterbot/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/ext/django_chatterbot/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/ext/django_chatterbot/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/ext/django_chatterbot/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/ext/django_chatterbot/factories.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/ext/django_chatterbot/factories.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/ext/django_chatterbot/management/commands/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/ext/django_chatterbot/management/commands/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/ext/django_chatterbot/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/ext/django_chatterbot/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/ext/django_chatterbot/migrations/0002_statement_extra_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/ext/django_chatterbot/migrations/0002_statement_extra_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/ext/django_chatterbot/migrations/0003_change_occurrence_default.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/ext/django_chatterbot/migrations/0003_change_occurrence_default.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/ext/django_chatterbot/migrations/0004_rename_in_response_to.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/ext/django_chatterbot/migrations/0004_rename_in_response_to.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/ext/django_chatterbot/migrations/0005_statement_created_at.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/ext/django_chatterbot/migrations/0005_statement_created_at.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/ext/django_chatterbot/migrations/0006_create_conversation.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/ext/django_chatterbot/migrations/0006_create_conversation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/ext/django_chatterbot/migrations/0007_response_created_at.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/ext/django_chatterbot/migrations/0008_update_conversations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/ext/django_chatterbot/migrations/0009_tags.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/ext/django_chatterbot/migrations/0010_statement_text.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/ext/django_chatterbot/migrations/0011_blank_extra_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/ext/django_chatterbot/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/ext/django_chatterbot/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/ext/django_chatterbot/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/ext/django_chatterbot/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/ext/django_chatterbot/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/ext/django_chatterbot/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/ext/django_chatterbot/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/ext/django_chatterbot/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/ext/sqlalchemy_app/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/ext/sqlalchemy_app/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/ext/sqlalchemy_app/types.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/filters.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/filters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/input/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/input/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/input/gitter.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/input/gitter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/input/hipchat.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/input/hipchat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/input/input_adapter.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/input/input_adapter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/input/mailgun.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/input/mailgun.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/input/microsoft.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/input/microsoft.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/input/terminal.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/input/terminal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/input/variable_input_type_adapter.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/input/variable_input_type_adapter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/logic/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/logic/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/logic/best_match.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/logic/best_match.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/logic/logic_adapter.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/logic/logic_adapter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/logic/low_confidence.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/logic/low_confidence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/logic/mathematical_evaluation.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/logic/mathematical_evaluation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/logic/multi_adapter.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/logic/multi_adapter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/logic/no_knowledge_adapter.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/logic/no_knowledge_adapter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/logic/specific_response.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/logic/specific_response.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/logic/time_adapter.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/logic/time_adapter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/output/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/output/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/output/gitter.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/output/gitter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/output/hipchat.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/output/hipchat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/output/mailgun.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/output/mailgun.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/output/microsoft.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/output/microsoft.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/output/output_adapter.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/output/output_adapter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/output/terminal.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/output/terminal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/parsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/parsing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/preprocessors.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/preprocessors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/response_selection.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/response_selection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/storage/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/storage/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/storage/django_storage.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/storage/django_storage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/storage/mongodb.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/storage/mongodb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/storage/sql_storage.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/storage/sql_storage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/storage/storage_adapter.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/storage/storage_adapter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/trainers.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/trainers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus-1.1.2.dist-info/DESCRIPTION.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus-1.1.2.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus-1.1.2.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus-1.1.2.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus-1.1.2.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus-1.1.2.dist-info/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus-1.1.2.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/corpus.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/corpus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/bangla/botprofile.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/bangla/botprofile.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/bangla/computer.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/bangla/computer.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/bangla/emotions.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/bangla/emotions.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/bangla/greetings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/bangla/greetings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/chinese/ai.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/chinese/botprofile.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/chinese/conversations.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/chinese/conversations.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/chinese/emotion.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/chinese/food.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/chinese/gossip.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/chinese/greetings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/chinese/greetings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/chinese/history.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/chinese/humor.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/chinese/literature.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/chinese/money.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/chinese/movies.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/chinese/politics.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/chinese/psychology.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/chinese/science.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/chinese/sports.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/chinese/trivia.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/chinese/trivia.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/custom/myown.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/custom/myown.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/english/ai.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/english/ai.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/english/botprofile.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/english/botprofile.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/english/computers.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/english/computers.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/english/conversations.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/english/conversations.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/english/emotion.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/english/emotion.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/english/food.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/english/food.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/english/gossip.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/english/gossip.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/english/greetings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/english/greetings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/english/history.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/english/history.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/english/humor.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/english/humor.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/english/literature.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/english/literature.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/english/money.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/english/money.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/english/movies.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/english/movies.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/english/politics.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/english/politics.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/english/psychology.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/english/psychology.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/english/science.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/english/science.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/english/sports.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/english/sports.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/english/trivia.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/english/trivia.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/french/greetings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/french/greetings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/french/trivia.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/french/trivia.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/german/conversations.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/german/conversations.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/german/greetings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/german/greetings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/hebrew/botprofile.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/hebrew/botprofile.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/hebrew/conversations.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/hebrew/conversations.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/hebrew/greetings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/hebrew/greetings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/hindi/coversations.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/hindi/coversations.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/hindi/greetings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/hindi/greetings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/indonesia/conversations.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/indonesia/conversations.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/indonesia/greetings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/indonesia/greetings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/indonesia/trivia.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/indonesia/trivia.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/italian/conversations.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/italian/conversations.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/italian/greetings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/italian/greetings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/italian/trivia.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/italian/trivia.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/marathi/conversations.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/marathi/conversations.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/marathi/greetings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/marathi/greetings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/odia/conversations.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/odia/greetings.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/portuguese/compliment.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/portuguese/compliment.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/portuguese/conversations.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/portuguese/conversations.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/portuguese/greetings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/portuguese/greetings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/portuguese/linguistic_knowledge.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/portuguese/linguistic_knowledge.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/portuguese/proverbs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/portuguese/proverbs.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/portuguese/suggestions.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/portuguese/suggestions.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/portuguese/trivia.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/portuguese/trivia.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/portuguese/unilab.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/portuguese/unilab.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/russian/conversations.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/russian/conversations.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/spanish/conversations.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/spanish/conversations.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/spanish/greetings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/spanish/greetings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/spanish/trivia.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/spanish/trivia.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/swedish/ai.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/swedish/ai.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/swedish/conversations.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/swedish/conversations.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/swedish/food.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/swedish/food.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/swedish/greetings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/swedish/greetings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/swedish/sports.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/swedish/sports.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/tchinese/ai.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/tchinese/ai.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/tchinese/botprofile.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/tchinese/botprofile.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/tchinese/conversations.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/tchinese/conversations.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/tchinese/emotion.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/tchinese/emotion.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/tchinese/food.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/tchinese/food.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/tchinese/gossip.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/tchinese/gossip.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/tchinese/greetings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/tchinese/greetings.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/tchinese/history.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/tchinese/history.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/tchinese/humor.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/tchinese/humor.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/tchinese/literature.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/tchinese/literature.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/tchinese/money.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/tchinese/money.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/tchinese/movies.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/tchinese/movies.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/tchinese/politics.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/tchinese/politics.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/tchinese/psychology.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/tchinese/psychology.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/tchinese/science.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/tchinese/science.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/tchinese/sports.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/tchinese/sports.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/tchinese/trivia.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/tchinese/trivia.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/telugu/conversations.yml" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/telugu/conversations.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/chatterbot_corpus/data/thai/greeting.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/connectors/pyodbc.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/connectors/pyodbc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/firebird/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/firebird/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/firebird/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/firebird/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mssql/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mssql/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mssql/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mssql/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mssql/information_schema.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mssql/information_schema.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mssql/pymssql.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mssql/pymssql.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mssql/pyodbc.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mssql/pyodbc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mysql/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mysql/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mysql/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mysql/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mysql/dml.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mysql/enumerated.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mysql/enumerated.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mysql/mysqlconnector.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mysql/mysqlconnector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mysql/mysqldb.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mysql/mysqldb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mysql/pymysql.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mysql/pymysql.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mysql/pyodbc.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mysql/pyodbc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mysql/reflection.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mysql/reflection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mysql/zxjdbc.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/mysql/zxjdbc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/oracle/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/oracle/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/oracle/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/oracle/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/oracle/cx_oracle.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/oracle/cx_oracle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/postgresql/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/postgresql/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/postgresql/array.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/postgresql/array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/postgresql/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/postgresql/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/postgresql/pg8000.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/postgresql/pg8000.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/postgresql/psycopg2.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/postgresql/psycopg2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/postgresql/ranges.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/postgresql/ranges.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/sqlite/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/sqlite/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/sqlite/pysqlite.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/sqlite/pysqlite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/sybase/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/sybase/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/sybase/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/dialects/sybase/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/engine/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/engine/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/engine/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/engine/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/engine/default.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/engine/default.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/engine/interfaces.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/engine/interfaces.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/engine/reflection.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/engine/reflection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/engine/result.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/engine/result.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/engine/strategies.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/engine/strategies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/engine/url.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/engine/url.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/event/attr.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/event/attr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/events.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/events.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/exc.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/exc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/ext/associationproxy.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/ext/associationproxy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/ext/automap.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/ext/automap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/ext/baked.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/ext/baked.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/ext/declarative/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/ext/declarative/api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/ext/declarative/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/ext/declarative/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/ext/horizontal_shard.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/ext/horizontal_shard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/ext/hybrid.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/ext/hybrid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/ext/mutable.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/ext/mutable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/ext/serializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/ext/serializer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/attributes.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/attributes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/collections.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/collections.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/dependency.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/dependency.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/descriptor_props.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/descriptor_props.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/dynamic.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/dynamic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/evaluator.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/evaluator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/events.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/events.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/exc.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/exc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/instrumentation.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/instrumentation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/interfaces.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/interfaces.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/loading.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/loading.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/mapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/mapper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/persistence.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/persistence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/query.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/query.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/relationships.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/relationships.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/scoping.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/scoping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/session.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/session.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/state.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/state.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/strategies.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/strategies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/strategy_options.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/strategy_options.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/unitofwork.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/unitofwork.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/orm/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/pool.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/pool.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/processors.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/processors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/schema.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/schema.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/annotation.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/annotation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/compiler.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/compiler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/crud.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/crud.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/ddl.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/ddl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/default_comparator.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/default_comparator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/dml.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/dml.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/elements.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/elements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/expression.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/expression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/schema.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/schema.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/selectable.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/selectable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/sqltypes.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/sqltypes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/type_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/type_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/visitors.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/sql/visitors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/assertions.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/assertions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/assertsql.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/assertsql.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/engines.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/engines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/exclusions.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/exclusions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/fixtures.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/fixtures.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/plugin/noseplugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/plugin/noseplugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/plugin/plugin_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/plugin/plugin_base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/provision.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/provision.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/requirements.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/requirements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/schema.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/schema.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/suite/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/suite/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/suite/test_cte.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/suite/test_dialect.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/suite/test_dialect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/suite/test_reflection.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/suite/test_reflection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/suite/test_results.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/suite/test_results.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/suite/test_select.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/suite/test_select.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/suite/test_sequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/suite/test_sequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/suite/test_types.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/suite/test_types.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/testing/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/util/_collections.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/util/_collections.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/util/compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/util/compat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/util/langhelpers.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sqlalchemy/util/langhelpers.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,85 +317,103 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="data_crawler.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/data_crawler.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tree_diagiam.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tree_diagiam.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="tree.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/treelib/tree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="259" selection-start-line="259" selection-end-line="259" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="element.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/bs4/element.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="950" selection-start-line="950" selection-end-line="950" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="training.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/training.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="112" selection-start-column="112" selection-end-column="112" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="errorhandler.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="241" selection-start-line="241" selection-end-line="241" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" selection-start-line="7" selection-end-line="8" selection-end-column="26" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tgChatbot.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tgChatbot.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
-              <folding>
-                <element signature="e#24#54#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="tree_diagiam.json" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/tree_diagiam.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="285">
+                  <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="itsm_crawler.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/itsm_crawler.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="513">
+                  <caret line="27" column="40" lean-forward="true" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+                  <folding>
+                    <element signature="e#0#29#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="training.json" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/training.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-2603">
+                  <caret column="112" selection-start-column="112" selection-end-column="112" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="errorhandler.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1383">
+                  <caret line="241" selection-start-line="241" selection-end-line="241" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/main.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="190">
+                  <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="tgChatbot.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/tgChatbot.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="341">
+                  <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="jsonfile.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/storage/jsonfile.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="361">
+                  <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="mongodb.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/storage/mongodb.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="342">
+                  <caret line="18" selection-start-line="18" selection-end-line="18" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="data_crawler.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/data_crawler.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="228">
+                  <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+                  <folding>
+                    <element signature="e#0#29#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -99,19 +424,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>DOC</find>
-      <find>DIRECTORY</find>
-      <find>print</find>
-      <find>Award / Certificate</find>
-      <find>getJSON_Tree</find>
-      <find>get_HTML_From_URL</find>
-      <find>self.dataTree.show()</find>
-      <find>show()</find>
-      <find>show</find>
-      <find>Service Level Agreement</find>
-      <find>Hi</find>
-      <find>dfgdfgdgdfgdfgd</find>
-      <find>Archive</find>
       <find>Technology Update</find>
       <find>Services</find>
       <find>HTML</find>
@@ -128,7 +440,20 @@
       <find>policy</find>
       <find>Information Classification</find>
       <find>classificationList</find>
+      <find>create</find>
       <find>Classification List</find>
+      <find>self.conversatio</find>
+      <find>DIRECTORY</find>
+      <find>push</find>
+      <find>conversations</find>
+      <find>writeToJSONFilewriteToJSONFile</find>
+      <find>conversation</find>
+      <find>TkinterGUIExample</find>
+      <find>JSON</find>
+      <find>isinstance</find>
+      <find>dict</find>
+      <find>pr</find>
+      <find>appen</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -137,16 +462,21 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/testing.py" />
         <option value="$PROJECT_DIR$/main.py" />
-        <option value="$PROJECT_DIR$/tgChatbot.py" />
         <option value="$PROJECT_DIR$/data_crawler.py" />
+        <option value="$PROJECT_DIR$/conversations.corpus.json" />
+        <option value="$PROJECT_DIR$/testing.py" />
+        <option value="$PROJECT_DIR$/VariableInputTypeAdapter.py" />
+        <option value="$PROJECT_DIR$/chatterbot_corpus/data/conversations.json" />
+        <option value="$PROJECT_DIR$/tgChatbot.py" />
+        <option value="$PROJECT_DIR$/tree_diagiam.json" />
+        <option value="$PROJECT_DIR$/itsm_crawler.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="626" />
-    <option name="y" value="132" />
+    <option name="x" value="63" />
+    <option name="y" value="29" />
     <option name="width" value="1527" />
     <option name="height" value="927" />
   </component>
@@ -156,6 +486,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,12 +498,19 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\KC_SUEN\PycharmProjects\towngasChatBot" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\KC_SUEN\PycharmProjects\towngasChatBot\venv\chatterbot_corpus\data" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -186,7 +524,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.data_crawler">
+  <component name="RunManager" selected="Python.itsm_crawler">
+    <configuration name="VariableInputTypeAdapter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="towngasChatBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VariableInputTypeAdapter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="data_crawler" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="towngasChatBot" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -205,7 +561,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="itsm_crawler" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="towngasChatBot" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -217,7 +573,25 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/itsm_crawler.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="testing (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="towngasChatBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -262,14 +636,18 @@
     <list>
       <item itemvalue="Python.testing" />
       <item itemvalue="Python.tgChatbot" />
-      <item itemvalue="Python.main" />
       <item itemvalue="Python.data_crawler" />
+      <item itemvalue="Python.testing (1)" />
+      <item itemvalue="Python.VariableInputTypeAdapter" />
+      <item itemvalue="Python.itsm_crawler" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.itsm_crawler" />
         <item itemvalue="Python.data_crawler" />
         <item itemvalue="Python.tgChatbot" />
-        <item itemvalue="Python.main" />
+        <item itemvalue="Python.VariableInputTypeAdapter" />
+        <item itemvalue="Python.testing (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -290,15 +668,15 @@
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20595238" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17678571" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3296433" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3475877" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.19298245" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991228" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -308,6 +686,25 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09940476" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.14035088" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991228" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -337,6 +734,61 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/testing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3021">
+          <caret line="164" column="27" selection-start-line="164" selection-start-column="27" selection-end-line="164" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree_diagiam.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="112" selection-start-column="112" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4579">
+          <caret line="241" selection-start-line="241" selection-end-line="241" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="7" selection-start-line="7" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6669">
+          <caret line="353" selection-start-line="353" selection-end-line="353" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/json/decoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6726">
+          <caret line="356" selection-start-line="356" selection-end-line="356" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tgChatbot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="45" column="61" lean-forward="true" selection-start-line="45" selection-start-column="61" selection-end-line="45" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/data_crawler.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="931">
@@ -354,38 +806,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" selection-start-line="7" selection-end-line="8" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tgChatbot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
-          <folding>
-            <element signature="e#24#54#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="241" selection-start-line="241" selection-end-line="241" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1482" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/tree.json" />
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/bs4/element.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
@@ -400,20 +821,163 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tree_diagiam.json">
+    <entry file="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6669">
+          <caret line="353" selection-start-line="353" selection-end-line="353" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/trainers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1463">
+          <caret line="84" column="32" selection-start-line="84" selection-start-column="19" selection-end-line="84" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conversations.corpus.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/chatterbot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/adapters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1881" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/Lib/json/decoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="698">
+          <caret line="356" selection-start-line="356" selection-end-line="356" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/storage/storage_adapter.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VariableInputTypeAdapter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="57" lean-forward="true" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1383">
+          <caret line="241" selection-start-line="241" selection-end-line="241" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/storage/jsonfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chatterbot_corpus/data/conversations.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-219">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tgChatbot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/training.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="-2603">
           <caret column="112" selection-start-column="112" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/storage/sql_storage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/chatterbot/storage/mongodb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="607">
+          <caret line="160" column="8" selection-start-line="160" selection-start-column="8" selection-end-line="160" selection-end-column="71" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KantaiBOT_DB.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree_diagiam.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data_crawler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        <state relative-caret-position="228">
+          <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database.db">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="89" selection-start-column="89" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geckodriver.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itsm_crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="40" lean-forward="true" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>

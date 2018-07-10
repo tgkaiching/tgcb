@@ -233,7 +233,7 @@ Homepage
 │   └── Wireless Lan
 │       ├── 2012
 │       ├── Good user email
-│       ├── How to Logon CWLAN16 Network through Wireless Connection version 4.0
+  │       ├── How to Logon CWLAN16 Network through Wireless Connection version 4.0
 │       ├── How to Logon EWLAN18 Network through Wireless Connection version 4.0
 │       ├── How to Logon GWIFIA2 Network through Wireless Connection version 3.0
 │       ├── How to Logon IWIFIA1 Network through Wireless Connection version 3.0
@@ -2520,6 +2520,1947 @@ Homepage
 ├── Info Classification - Restricted
 ├── Information Classification
 │   ├── Classification List
+│   └── Policy
+├── Information Security
+│   └── Information Security Committee
+│       └── Mass Communication
+│           ├── Departmental Information Security Administrator Briefing
+│           ├── Departmental Information Security Administrator List_20151209
+│           ├── Departmental Information Security Administrator List_20160315
+│           ├── Departmental Information Security Administrator List_20160415
+│           ├── Departmental Information Security Administrator List_20160422 v2
+│           ├── Departmental Information Security Administrator List_20170118
+│           ├── Departmental Information Security Administrator List_20170216
+│           ├── Departmental Information Security Administrator List_20170217
+│           ├── Departmental Information Security Administrator List_20170301
+│           ├── Departmental Information Security Administrator List_20170327
+│           ├── Departmental Information Security Administrator List_20180214
+│           ├── Departmental Information Security Administrator List_20180313
+│           ├── Departmental Information Security Administrator List_20180314
+│           ├── Guidelines for using Information Classification Repository v2.0
+│           ├── Information Classification (Mass Comm)
+│           ├── Information Classification Policy (effective since 1st Jan 2013)
+│           ├── Information Classification Policy (revised 8-2-2013)
+│           ├── Information classification List template
+│           ├── Intro to PDPO Amendment_1.1
+│           └── Refreshment of departmental ICR 2015 v4
+├── Introduction
+├── NGDS
+│   ├── Standard Build Environment Content List (2015)
+│   ├── TG_Win10_ComputerSecurityCompliance_1.4
+│   ├── Tips of the Week
+│   │   ├── Tips of the Week  01 - Interactive Guide
+│   │   ├── Tips of the Week  02 - Quick Access Toolbar
+│   │   ├── Tips of the Week  03 - Show Desktop
+│   │   ├── Tips of the Week  04 - Pin to Taskbar
+│   │   ├── Tips of the Week  05 - Compare Document
+│   │   ├── Tips of the Week  06 - Windows Search
+│   │   ├── Tips of the Week  07 - Sticky Notes
+│   │   ├── Tips of the Week  08 - Snipping Tool
+│   │   ├── Tips of the Week  09 - Problem Steps Recorder
+│   │   ├── Tips of the Week  10 - Magnifier
+│   │   ├── Tips of the Week  11 - Saving PDF
+│   │   ├── Tips of the Week  12 - Pinning Document
+│   │   ├── Tips of the Week  13 - Insert Screenshot
+│   │   ├── Tips of the Week  14 - Outlook Jumplist
+│   │   ├── Tips of the Week  15 - Animation Painter
+│   │   └── Tips of the Week  16 - Alt Key
+│   ├── VDI
+│   │   ├── List for Supported Devices
+│   │   │   └── Client Device List for VDI Services
+│   │   ├── VDI - FAQ
+│   │   │   ├── Setup step for renew VDI mobile device (Android device)
+│   │   │   ├── Setup step for renew VDI mobile device (iOS device)
+│   │   │   ├── VDI common errors_V1
+│   │   │   └── VDI new web interface logon procedure_V1
+│   │   └── VDI Installation Guide
+│   │       ├── VDI Installation Guide for Android
+│   │       ├── VDI Installation Guide for Mac OS
+│   │       ├── VDI Installation Guide for Windows
+│   │       ├── VDI Installation Guide for iOS
+│   │       └── VDI installation guide for Windows 10 browser
+│   ├── Win10_SOE_release_note
+│   ├── Win7 User List
+│   ├── Win7 and Office 2010
+│   │   ├── Access2010
+│   │   │   ├── Access 2010 - 使用範本建立資料庫
+│   │   │   └── Access 2010 - 資料庫設計度身訂造
+│   │   ├── Excel2003_to_2010_Reference
+│   │   ├── Excel2010
+│   │   │   ├── Excel 2010 - 交叉分析篩選器Slicer
+│   │   │   ├── Excel 2010 - 數據分析報表 Pivot Table
+│   │   │   └── Excel 2010 - 走勢圖 Sparkline
+│   │   ├── How to compress image by using Microsoft Office Picture Manager
+│   │   ├── Microsoft Office 2010 Interactive Menu
+│   │   │   └── Microsoft Office 2010 Interactive Menu with Silver Light
+│   │   ├── Office2010
+│   │   │   ├── Office 2010 介面簡介(一)
+│   │   │   └── Office 2010 介面簡介(二)
+│   │   ├── Outlook2003_to_2010_Reference
+│   │   ├── Outlook2010
+│   │   │   ├── Outlook 2010 - Conversation View追蹤郵件
+│   │   │   ├── Outlook 2010 - Instant Search 加快搜尋
+│   │   │   ├── Outlook 2010 - 建立個人資料夾檔案 (.pst檔)
+│   │   │   └── Outlook 2010 - 建立快速步驟
+│   │   ├── PowerPoint2003_to_2010_Reference
+│   │   ├── PowerPoint2010
+│   │   │   ├── How to compress a powerpoint file
+│   │   │   ├── Power Point 2010 - 修改圖像及影片
+│   │   │   ├── Power Point 2010 - 壓縮圖像及影片
+│   │   │   └── Power Point 2010 - 將簡報儲存成視訊
+│   │   ├── Windows 7
+│   │   │   ├── Change_windows_settings_變更 Windows 設定
+│   │   │   └── Find_files_尋找檔案
+│   │   ├── Word2003_to_2010_Reference
+│   │   └── Word2010
+│   │       ├── Word 2010 - Ribbon and BackStage
+│   │       ├── Word 2010 - 註解及檢查文件
+│   │       └── Word 2010 - 迷你翻譯工具
+│   ├── Win7(64-bit)_SOE_release_note
+│   ├── Win7_SOE_release_note
+│   └── local Admin right
+│       ├── CITD_local_admin_right_apply_form_v1 1
+│       └── CITD_local_admin_right_flow_v1 1
+├── Organization Chart
+├── Policies, Procedures & Standards
+├── Services Request
+│   ├── ITSM
+│   ├── Inventory Management
+│   ├── Outstanding IT Request and Usernet
+│   │   ├── 20140401 Usernet Outstanding Report - TGWiKi
+│   │   ├── Archive
+│   │   ├── IT Request Job Queue Report (12Nov2014)
+│   │   └── IT Request Job Queue Report (20May2014)
+│   ├── PC Buyer
+│   ├── Self-Service Password Reset
+│   ├── Service Catalogue
+│   ├── Service Desk Status Enquiry
+│   └── Service Desk User Guide
+├── Technology Update
+│   ├── AR and VR Technology
+│   │   ├── 01-Virtual Tour
+│   │   │   ├── Mia Cucina Kitchen Cabinet At Eden Manor
+│   │   │   ├── Mia Cucina Kitchen Cabinet At Eden Manor (Only Kitchen)
+│   │   │   ├── Mia Cucina, Kitchen by Towngas
+│   │   │   ├── Tai Po Plant F803  Reformer( Require password)
+│   │   │   ├── Towngas 11F
+│   │   │   ├── Towngas Customer Center
+│   │   │   │   ├── 煤氣客戶中心（ 將軍澳）
+│   │   │   │   ├── 煤氣客戶中心（九龍灣）
+│   │   │   │   ├── 煤氣客戶中心（元朗）
+│   │   │   │   ├── 煤氣客戶中心（北角）
+│   │   │   │   ├── 煤氣客戶中心（大埔）
+│   │   │   │   ├── 煤氣客戶中心（天水圍）
+│   │   │   │   ├── 煤氣客戶中心（尖沙咀中港城）
+│   │   │   │   ├── 煤氣客戶中心（尖沙咀漆咸道南）
+│   │   │   │   ├── 煤氣客戶中心（屯門）
+│   │   │   │   ├── 煤氣客戶中心（康怡）
+│   │   │   │   ├── 煤氣客戶中心（旺角）
+│   │   │   │   ├── 煤氣客戶中心（柴灣）
+│   │   │   │   ├── 煤氣客戶中心（樂富）
+│   │   │   │   ├── 煤氣客戶中心（沙田）
+│   │   │   │   ├── 煤氣客戶中心（灣仔）
+│   │   │   │   ├── 煤氣客戶中心（紅磡）
+│   │   │   │   ├── 煤氣客戶中心（荃灣）
+│   │   │   │   ├── 煤氣客戶中心（藍田）
+│   │   │   │   ├── 煤氣客戶中心（青衣）
+│   │   │   │   ├── 煤氣客戶中心（香港仔）
+│   │   │   │   └── 煤氣客戶中心（馬鞍山）
+│   │   │   └── Towngas Hall Of Innovation
+│   │   ├── 02-Education,Training and Maintenance
+│   │   │   ├── 1.AR Equipment Training and Maintenance App[Ref]
+│   │   │   └── 2.AR TG Gas Chiller
+│   │   ├── 03-Retail
+│   │   │   ├── 1.HTC Vive virtual reality for hombuilders - VisualCommerce VR showroom[Ref]
+│   │   │   └── 2.VR kitchen[Ref]
+│   │   ├── 04-Marketing
+│   │   │   ├── 1.Virtual cooking _cocinaconBosch[Ref]
+│   │   │   ├── 2.Le Petit Chef[Ref]
+│   │   │   └── 3.UCanCook - AR cook book for people with learning difficulties-disabilities[Ref]
+│   │   ├── 05-Industrial Design
+│   │   │   └── 1.Volvo Cars- Partner Spotlight With Microsoft HoloLens[Ref]
+│   │   └── 06-Others
+│   │       ├── External
+│   │       │   ├── HTC Vive virtual reality for homebuilders - VisualCommerce VR showroom
+│   │       │   └── VR AR Technology - Vistual Tour and Maintenance
+│   │       └── Internal
+│   │           ├── AR chiller
+│   │           ├── Pipe Connection
+│   │           ├── VR Kitchen
+│   │           └── xensorylab PPT
+│   ├── ChatBot
+│   │   ├── Commercial Bank of Dubai
+│   │   └── Repair Virtual Booking Agent AI - Light version
+│   └── RFID
+│       ├── EBSL Presentation for Towngas
+│       └── Mobile Attendance System
+│           ├── EBSL Mofile_Attendance_for_TG_20170127
+│           └── Mobile Attendance System Video
+└── User Communication
+    ├── DECC Briefing PC replacement and End Point backup solution
+    ├── DECC Briefing on CIT inventory management System Phase 2
+    ├── DECC Briefing on Lunch & Learn Session for MS Win 7 Ent & Office 2010
+    ├── DECC Briefing on PC Buyer Revamp and Windows 7 + Office 2010 Upgrade
+    ├── DECC Briefing on Windows7 + Office 2010 Upgrade & PC Buyer revamp pre-show
+    ├── DECC briefing 20130802 for Email System Upgrade
+    ├── DECC briefing for Siebel users
+    ├── ITEIMS DECC User Manual
+    ├── ITSM Briefing 20140312 User Version
+    ├── Mobile Devices Acquisition Policy update record of Tablets
+    ├── TG ELearning Briefing Session – 20170724
+    └── Windows 7 and Office 2010 Briefing
+Homepage
+├── Award / Certificate
+├── Forms
+│   ├── Internal Forms
+│   │   ├── 3663 support guideline for New_SystemApplication_Name-Expired on YYYYMMDD
+│   │   ├── Apply FM200 training course
+│   │   ├── Backup Job Definition Change Request
+│   │   ├── Batch Job Definition Change Request Form
+│   │   ├── CCF Form (CRM and CS)
+│   │   ├── CMS_CCF09xxxx (template)
+│   │   ├── CRM_BI Request Deliverable Checklist Template
+│   │   ├── DataBase Backup Request Form
+│   │   ├── DataBase Restore Request Form
+│   │   ├── ERP_CCF09xxxx (template)
+│   │   ├── FDS_Approval_Form
+│   │   ├── IT Equipment in Data Center Movement Request
+│   │   ├── ITD Effort Estimation Template
+│   │   ├── Incident_update Ref xxxxxxxxxx (23May2014)
+│   │   ├── Re-org Checklist - New and Leaver
+│   │   ├── Request to access MTK 5 F Data Center - xxxxxxxxxx(dd-mm-yyyy)
+│   │   ├── Request to access TKO-SENT Server room - xxxxxxxxxx (ddmmyyyy)
+│   │   ├── Request to access Tsuen Wan 7F Server room - xxxxxxxxxx (ddmmyyyy)
+│   │   ├── Request to access Tuen Mun YKK 17F Server room - xxxxxxxxxx (ddmmyyyy)
+│   │   ├── Restore Request for Siebel User Preference File - Template
+│   │   ├── SAP_DeliverableChecklist
+│   │   ├── SAP_FDS
+│   │   ├── SLM_TMPL_SLR
+│   │   ├── Standards and Procedures Deviation Form
+│   │   └── Testcase
+│   └── Public Forms
+│       ├── Computer Data Maintenance Request Form
+│       ├── Copy Production Client and Data Restore Request Form
+│       ├── Exceptional Computer Data Amendment Request Form
+│       └── Tablet Acquisition Form
+├── IT Services Management
+│   ├── Business Systems Info
+│   │   ├── CMS Public Info
+│   │   │   ├── 20111207 DECC Briefing (Consolidated)_PDF
+│   │   │   ├── CMS Business Release Schedule
+│   │   │   │   └── CMS Business Release
+│   │   │   ├── CMS Data Archiving Schedule
+│   │   │   │   ├── 2012 CMS Archiving Schedule
+│   │   │   │   ├── 2013 CMS Archiving Schedule
+│   │   │   │   ├── 2014 CMS Archiving Schedule
+│   │   │   │   ├── 2015 CMS Archiving Schedule
+│   │   │   │   ├── 2016 CMS Archiving Schedule
+│   │   │   │   ├── 2017 CMS Archiving Schedule
+│   │   │   │   └── 2018 CMS Archiving Schedule
+│   │   │   ├── CMS Power Users
+│   │   │   │   └── CMS Power Users
+│   │   │   ├── CMS Process Owner
+│   │   │   │   └── CMS Process Owner
+│   │   │   ├── CMS User Forum Schedule
+│   │   │   │   ├── 2009 CMS User Forum Schedule
+│   │   │   │   ├── 2010 CMS User Forum Schedule
+│   │   │   │   ├── 2011 CMS User Forum Schedule
+│   │   │   │   ├── 2012 CMS User Forum Schedule
+│   │   │   │   ├── 2013 CMS User Forum Schedule
+│   │   │   │   ├── 2014_CMS_User_Forum_Schedule
+│   │   │   │   ├── 2015_CMS_User_Forum_Schedule
+│   │   │   │   ├── 2016 CMS User Forum Schedule
+│   │   │   │   ├── 2017 CMS User Forum Schedule
+│   │   │   │   └── 2018 CMS User Forum Schedule
+│   │   │   ├── SCCMCheck
+│   │   │   └── cms
+│   │   ├── CRM Public Info
+│   │   │   ├── CRM Business Release Schedule
+│   │   │   ├── CRM Module Owners (tgwiki)
+│   │   │   ├── CRM Power Users (tgwiki)
+│   │   │   ├── CRM and BI User Forum Member List
+│   │   │   ├── Customer_Remarks_Guildelines
+│   │   │   ├── Product and Pricing Committee Member List
+│   │   │   └── Siebel Responsibility Authorization List
+│   │   ├── CS Public Info
+│   │   │   └── Meeting notes
+│   │   │       ├── CS_UF20100223
+│   │   │       ├── CS_UF20100323
+│   │   │       ├── CS_UF20100420
+│   │   │       ├── CS_UF20100518
+│   │   │       ├── CS_UF20100720
+│   │   │       ├── CS_UF20100920
+│   │   │       ├── CS_UF20101118
+│   │   │       ├── CS_UF20110118
+│   │   │       ├── CS_UF20110315
+│   │   │       ├── CS_UF20110517
+│   │   │       ├── CS_UF20110920
+│   │   │       ├── CS_UF20111115
+│   │   │       ├── CS_UF20120117
+│   │   │       ├── CS_UF20120320
+│   │   │       ├── CS_UF20120515
+│   │   │       ├── CS_UF20120717
+│   │   │       ├── CS_UF20120918
+│   │   │       ├── CS_UF20130322
+│   │   │       ├── CS_UF20130516
+│   │   │       ├── CS_UF20130709
+│   │   │       ├── CS_UF20130910
+│   │   │       ├── CS_UF20131112
+│   │   │       ├── CS_UF20140114
+│   │   │       ├── CS_UF20140318
+│   │   │       ├── CS_UF20140516
+│   │   │       ├── CS_UF20140722
+│   │   │       ├── CS_UF20140929
+│   │   │       ├── CS_UF20141202
+│   │   │       ├── CS_UF20150210
+│   │   │       └── CS_UF20150414
+│   │   ├── ERP Public Info
+│   │   │   ├── ERP Archiving Schedule
+│   │   │   │   ├── 2008 ERP Archiving Schedule
+│   │   │   │   ├── 2009 ERP Archiving Schedule
+│   │   │   │   ├── 2010 ERP Archiving Schedule
+│   │   │   │   ├── 2011 ERP Archiving Schedule
+│   │   │   │   ├── 2012 ERP Archiving Schedule
+│   │   │   │   ├── 2013 ERP Archiving Schedule
+│   │   │   │   ├── 2014 ERP Archiving Schedule
+│   │   │   │   ├── 2015 ERP Archiving Schedule
+│   │   │   │   ├── 2016 ERP Archiving Schedule
+│   │   │   │   ├── 2017 ERP Archiving Schedule
+│   │   │   │   └── 2018 ERP Archiving Schedule
+│   │   │   ├── ERP Business Release Schedule
+│   │   │   │   └── ERP Business Release Schedule
+│   │   │   ├── ERP Power User
+│   │   │   │   └── SAP Power User
+│   │   │   ├── ERP Process Owner
+│   │   │   │   └── ERP Process Owner
+│   │   │   ├── ERP User Forum Meeting Minutes
+│   │   │   │   ├── SAPUF20090423
+│   │   │   │   ├── SAPUF20090521
+│   │   │   │   ├── SAPUF20090625
+│   │   │   │   ├── SAPUF20091022
+│   │   │   │   ├── SAPUF20091217
+│   │   │   │   ├── SAPUF20100204
+│   │   │   │   ├── SAPUF20100401
+│   │   │   │   ├── SAPUF20100604
+│   │   │   │   ├── SAPUF20100805
+│   │   │   │   ├── SAPUF20101007
+│   │   │   │   ├── SAPUF20110128
+│   │   │   │   ├── SAPUF20110407
+│   │   │   │   ├── SAPUF20110602
+│   │   │   │   ├── SAPUF20110804
+│   │   │   │   ├── SAPUF20111006
+│   │   │   │   ├── SAPUF20111201
+│   │   │   │   ├── SAPUF20120208
+│   │   │   │   ├── SAPUF20120330
+│   │   │   │   ├── SAPUF20120607
+│   │   │   │   ├── SAPUF20120801
+│   │   │   │   ├── SAPUF20121004
+│   │   │   │   ├── SAPUF20121206
+│   │   │   │   ├── SAPUF20130207
+│   │   │   │   ├── SAPUF20130411
+│   │   │   │   ├── SAPUF20130606
+│   │   │   │   ├── SAPUF20130801
+│   │   │   │   ├── SAPUF20131003
+│   │   │   │   ├── SAPUF20131205
+│   │   │   │   ├── SAPUF20140207
+│   │   │   │   └── SAPUF20140404
+│   │   │   ├── ERP User Forum Schedule
+│   │   │   │   ├── 2008 ERP User Forum Schedule
+│   │   │   │   ├── 2009 ERP User Forum Schedule
+│   │   │   │   ├── 2010 ERP User Forum Schedule
+│   │   │   │   ├── 2011 ERP User Forum Schedule
+│   │   │   │   ├── 2012 ERP User Forum Schedule
+│   │   │   │   ├── 2013 ERP User Forum Schedule
+│   │   │   │   ├── 2014 ERP User Forum Schedule
+│   │   │   │   ├── 2015 ERP User Forum Schedule
+│   │   │   │   └── 2016 ERP User Forum Schedule
+│   │   │   └── Useful Information
+│   │   │       └── Actionable Steps to Accelerating Your Cash Flow
+│   │   │           ├── PrimaryOffer_Final_data_3980_TL_FSCM_50095690_us
+│   │   │           ├── SupportingOffer_CaseStudy_STEF-TFE_RecAndCollectDisputeMng
+│   │   │           └── SupportingOffer_ThoughtLeadership_Technology_Solutions_for_Improving_Cash_and_Liquidity_Management
+│   │   └── TGBI / OLAP Public Info
+│   │       ├── TGBI System Authorization List
+│   │       └── TGBI User
+│   ├── Client Services Manager
+│   ├── Compliment\Complaint
+│   ├── DECC List
+│   ├── ISO 20000 Process Guide
+│   │   ├── BRM_PG4.0
+│   │   ├── BUA_PG2.3
+│   │   ├── CHM_PG.6.2
+│   │   ├── CNM_PG 6.3
+│   │   ├── CPM_PG 2.3
+│   │   ├── INM_PG3.7
+│   │   ├── ISM_PG2.5
+│   │   ├── PRM_PG2.7
+│   │   ├── Processes Integration_v1
+│   │   ├── RLM_PG3.1
+│   │   ├── SCA_PG.3.1
+│   │   ├── SER_PG.2.1
+│   │   ├── SLM_PG2.6
+│   │   └── SPM_PG2.12
+│   ├── IT Service Reports
+│   │   ├── ITD Service Catalogue
+│   │   ├── Service Level Agreement
+│   │   │   ├── SLM_DOC_SLA CMS
+│   │   │   ├── SLM_DOC_SLA CRM
+│   │   │   └── SLM_DOC_SLA ERP
+│   │   ├── Service Level Results
+│   │   │   ├── 2010
+│   │   │   │   ├── Service Level Result - 201001
+│   │   │   │   ├── Service Level Result - 201002
+│   │   │   │   ├── Service Level Result - 201003
+│   │   │   │   ├── Service Level Result - 201004
+│   │   │   │   ├── Service Level Result - 201005
+│   │   │   │   ├── Service Level Result - 201006
+│   │   │   │   ├── Service Level Result - 201007
+│   │   │   │   ├── Service Level Result - 201008
+│   │   │   │   ├── Service Level Result - 201009
+│   │   │   │   ├── Service Level Result - 201010
+│   │   │   │   ├── Service Level Result - 201011
+│   │   │   │   └── Service Level Result - 201012
+│   │   │   ├── 2011
+│   │   │   │   ├── Service Level Result - 201101
+│   │   │   │   ├── Service Level Result - 201102
+│   │   │   │   ├── Service Level Result - 201103
+│   │   │   │   ├── Service Level Result - 201104
+│   │   │   │   ├── Service Level Result - 201105
+│   │   │   │   ├── Service Level Result - 201106
+│   │   │   │   ├── Service Level Result - 201107
+│   │   │   │   ├── Service Level Result - 201108
+│   │   │   │   ├── Service Level Result - 201109
+│   │   │   │   ├── Service Level Result - 201110
+│   │   │   │   ├── Service Level Result - 201111
+│   │   │   │   └── Service Level Result - 201112
+│   │   │   ├── 2012
+│   │   │   │   ├── Service Level Result - 201201
+│   │   │   │   ├── Service Level Result - 201202
+│   │   │   │   ├── Service Level Result - 201203
+│   │   │   │   ├── Service Level Result - 201204
+│   │   │   │   ├── Service Level Result - 201205
+│   │   │   │   ├── Service Level Result - 201206
+│   │   │   │   ├── Service Level Result - 201207
+│   │   │   │   ├── Service Level Result - 201208
+│   │   │   │   ├── Service Level Result - 201209
+│   │   │   │   ├── Service Level Result - 201210
+│   │   │   │   ├── Service Level Result - 201211
+│   │   │   │   └── Service Level Result - 201212
+│   │   │   ├── 2013
+│   │   │   │   ├── Service Level Result - 201301
+│   │   │   │   ├── Service Level Result - 201302
+│   │   │   │   ├── Service Level Result - 201303
+│   │   │   │   ├── Service Level Result - 201304
+│   │   │   │   ├── Service Level Result - 201305
+│   │   │   │   ├── Service Level Result - 201306
+│   │   │   │   ├── Service Level Result - 201307
+│   │   │   │   ├── Service Level Result - 201308
+│   │   │   │   ├── Service Level Result - 201309
+│   │   │   │   ├── Service Level Result - 201310
+│   │   │   │   ├── Service Level Result - 201311
+│   │   │   │   └── Service Level Result - 201312
+│   │   │   ├── 2014
+│   │   │   │   ├── Service Level Result - 201401
+│   │   │   │   ├── Service Level Result - 201402
+│   │   │   │   ├── Service Level Result - 201403
+│   │   │   │   ├── Service Level Result - 201404
+│   │   │   │   ├── Service Level Result - 201405
+│   │   │   │   ├── Service Level Result - 201406
+│   │   │   │   ├── Service Level Result - 201407
+│   │   │   │   ├── Service Level Result - 201408
+│   │   │   │   ├── Service Level Result - 201409
+│   │   │   │   ├── Service Level Result - 201410
+│   │   │   │   ├── Service Level Result - 201411
+│   │   │   │   └── Service Level Result - 201412
+│   │   │   ├── 2015
+│   │   │   │   ├── Service Level Result - 201501
+│   │   │   │   ├── Service Level Result - 201502
+│   │   │   │   ├── Service Level Result - 201503
+│   │   │   │   ├── Service Level Result - 201504
+│   │   │   │   ├── Service Level Result - 201505
+│   │   │   │   ├── Service Level Result - 201506
+│   │   │   │   ├── Service Level Result - 201507
+│   │   │   │   ├── Service Level Result - 201508
+│   │   │   │   ├── Service Level Result - 201509
+│   │   │   │   ├── Service Level Result - 201510
+│   │   │   │   ├── Service Level Result - 201511
+│   │   │   │   └── Service Level Result - 201512
+│   │   │   ├── 2016
+│   │   │   │   ├── Service Level Result - 201601
+│   │   │   │   ├── Service Level Result - 201602
+│   │   │   │   ├── Service Level Result - 201603
+│   │   │   │   ├── Service Level Result - 201604
+│   │   │   │   ├── Service Level Result - 201605
+│   │   │   │   ├── Service Level Result - 201606
+│   │   │   │   ├── Service Level Result - 201607
+│   │   │   │   ├── Service Level Result - 201608
+│   │   │   │   ├── Service Level Result - 201609
+│   │   │   │   ├── Service Level Result - 201610
+│   │   │   │   ├── Service Level Result - 201611
+│   │   │   │   └── Service Level Result - 201612
+│   │   │   ├── 2017
+│   │   │   │   ├── Service Level Result - 201701
+│   │   │   │   ├── Service Level Result - 201702
+│   │   │   │   ├── Service Level Result - 201703
+│   │   │   │   ├── Service Level Result - 201704
+│   │   │   │   ├── Service Level Result - 201705
+│   │   │   │   ├── Service Level Result - 201706
+│   │   │   │   ├── Service Level Result - 201707
+│   │   │   │   ├── Service Level Result - 201708
+│   │   │   │   ├── Service Level Result - 201709
+│   │   │   │   ├── Service Level Result - 201710
+│   │   │   │   ├── Service Level Result - 201711
+│   │   │   │   └── Service Level Result - 201712
+│   │   │   ├── 2018
+│   │   │   │   ├── Service Level Result - 201801
+│   │   │   │   ├── Service Level Result - 201802
+│   │   │   │   ├── Service Level Result - 201803
+│   │   │   │   ├── Service Level Result - 201804
+│   │   │   │   └── Service Level Result - 201805
+│   │   │   ├── Service Level Result - 200903
+│   │   │   ├── Service Level Result - 200904
+│   │   │   ├── Service Level Result - 200905
+│   │   │   ├── Service Level Result - 200906
+│   │   │   ├── Service Level Result - 200907
+│   │   │   ├── Service Level Result - 200908
+│   │   │   ├── Service Level Result - 200909
+│   │   │   ├── Service Level Result - 200910
+│   │   │   ├── Service Level Result - 200911
+│   │   │   └── Service Level Result - 200912
+│   │   └── Services Satisfaction Survey Result
+│   │       ├── 2010 IT Services Satisfaction Survey Report
+│   │       ├── 2011 IT Services Satisfaction Survey Report
+│   │       ├── 2012 IT Services Satisfaction Survey Report
+│   │       ├── 2013 IT Services Satisfaction Survey Report
+│   │       ├── 2015 IT Services Satisfaction Survey Report
+│   │       └── 2017 IT Services Satisfaction Survey Report
+│   └── Service Level Agreement
+│       ├── SLM_DOC_SLA CMS
+│       ├── SLM_DOC_SLA CRM
+│       └── SLM_DOC_SLA ERP
+├── IT Tips
+│   ├── Hardware
+│   │   └── 滑鼠類型簡介
+│   ├── MS Windows, IE & Office
+│   │   ├── Add White list in outlook
+│   │   ├── How to reduce PST file
+│   │   ├── How to reduce ost file
+│   │   ├── Internet Explorer 10 connect OWA
+│   │   ├── Java security config for Lighting system
+│   │   ├── Quick access guide on Towngas OWA
+│   │   ├── Start using Internet Explorer 11
+│   │   ├── To make IE as default browser
+│   │   ├── 保護螢幕幻燈片
+│   │   ├── 做個醒目電郵使用者
+│   │   ├── 如何封存archive郵件
+│   │   ├── 我在工作時經常需要同時開啟多個軟件,導致很多視窗互相交叠在屏幕上-怎樣能把所有視窗一起收下呢
+│   │   ├── 把文件內的簡體字標示拼音
+│   │   ├── 文件開太多-查找無難度
+│   │   ├── 有否方法把我喜歡的Windows Explorer顯示模式成為常設Default呢
+│   │   ├── 活用鍵盤快速鍵
+│   │   ├── 為何有些時間-我不能夠在OWA上刪除電郵呢
+│   │   ├── 為簡報檔案中的圖片輕鬆地除去底色
+│   │   └── 行事曆封存方法
+│   ├── Network
+│   │   └── 怎樣檢查電腦的網路連接是否正常
+│   ├── Others
+│   │   ├── Google 搜尋話咁易
+│   │   ├── rar的壓縮檔公司的IZArc無法解壓-有時在解壓過程中會出現Error的錯誤信息
+│   │   ├── 有什麼簡單的方法-可以減低數碼相片的解像度-從而縮細檔案的大小 (Windows 7 and 10)
+│   │   └── 有什麼簡單的方法-可以減低數碼相片的解像度-從而縮細檔案的大小 (Windows XP)
+│   ├── Printing
+│   │   ├── Print Queue List
+│   │   ├── Print Queue Migration List
+│   │   ├── 為什麼我的文件仍未打印出來
+│   │   └── 點解print出來的文件會轉了樣貌-有什麽解決方法
+│   ├── Security
+│   │   ├── 2014
+│   │   │   ├── InfoSec Tips 20140129 誰洩露我的最爛密碼
+│   │   │   ├── InfoSec Tips 20140402 搵個好密碼
+│   │   │   ├── InfoSec Tips 20140603 襲Android手機放病毒
+│   │   │   ├── InfoSec Tips 20140721資安小錦囊 - 暑假網詐- 這陷阱-這陷阱-偏我遇上
+│   │   │   ├── InfoSec Tips 20141007 你安裝了的Apps是否安全嗎
+│   │   │   └── InfoSec Tips 20141223 佳節網購要小心 免誤中釣魚陷阱
+│   │   ├── 2015
+│   │   │   ├── InfoSec Tips 20150213 葉劉都中招，千祈咪睇小
+│   │   │   ├── InfoSec Tips 20150331 「漁」人節， 小心病毒整蠱你
+│   │   │   ├── InfoSec Tips 20150626 社交工程騙案再現  騙徒假扮公安致電
+│   │   │   ├── InfoSec Tips 20150827 用得公共WiFi 預咗會瀨嘢
+│   │   │   └── InfoSec Tips 20151111 邊有咁大隻蛤乸隨街跳
+│   │   ├── 2016
+│   │   │   ├── InfoSec Tips 20160204 外遊做妥保安3件事-出門旅行安心又寫意
+│   │   │   ├── InfoSec Tips 20160212 上網要小心-慎防惡意程式入侵 
+│   │   │   ├── InfoSec Tips 20160217 電腦中咗招 快行三步曲
+│   │   │   ├── InfoSec Tips 20160307 勒索軟件猖獗-一不留神-分分鐘中招-電腦檔案隨即報廢
+│   │   │   ├── InfoSec Tips 20160322 勒索軟件又變種-提高機覺免中伏
+│   │   │   ├── InfoSec Tips 20160415 停車要熄匙 - 收工要登出-熄機
+│   │   │   ├── InfoSec Tips 20160525 社交工程陷阱篇之 咪以為係VIP-裝咗就低B-WhatsApp黃金版騙局
+│   │   │   ├── InfoSec Tips 20160610 社交工程陷阱篇之真假波士電郵要分清 - 否則騙徒呃錢一鋪清
+│   │   │   ├── InfoSec Tips 20160616 財經透視 對抗黑客
+│   │   │   ├── InfoSec Tips 20160718 究竟為什麼 帳號常被鎖
+│   │   │   ├── InfoSec Tips 20160810 「極度危險」警告 - Android流動設備最新高危漏洞 (QuadRooter)
+│   │   │   └── InfoSec Tips 20161118 網騙肆虐  一Click即中
+│   │   ├── Archive
+│   │   │   ├── Change Windows domain password via Towngas Outlook Web Acc…
+│   │   │   ├── How to change Windows Domain and VPN account Passwords fro…
+│   │   │   ├── How to delegate email system permissions
+│   │   │   ├── How using IZArc to Encrypt and Decrypt the file (Part 2)
+│   │   │   ├── How using IZArc to Encrypt and Decrypt the files
+│   │   │   ├── 如何使用加密籲匙 Corp08Q3 (或稱 Local_Corp08Q3@2008-06-05)加密檔案,以避免在公司以外的電腦無法開啟在移動記憶體內被 Utimaco 加密了的檔案
+│   │   │   ├── 如何在公司以外的電腦-開啟USB removable storage已加密的公司文件
+│   │   │   ├── 我部門經常有些檔案用 USB flash storage或floppy交予承包商-但檔案加密後要開啟-只可以用公司之鑰匙及密碼-請問如何解決
+│   │   │   └── 點解我明明裝咗防病毒軟件都會中毒
+│   │   ├── InfoSec Tips 20170513 黑客勒索軟件 WANNACRY 肆虐全球 近百國及香港受影響 
+│   │   ├── InfoSec Tips 20170515 有關 WannaCry 勒索軟件，給手提電腦同事的忠告
+│   │   ├── InfoSec Tips 20170628 勒索病毒又來-歐洲多國正遭受大量網路攻擊
+│   │   ├── InfoSec Tips 20170811 自己密碼自己改 - Windows Account Self-Service Portal 帳戶自助服務
+│   │   ├── InfoSec Tips 20170901 話送你兩張機票，實騙取個人資料
+│   │   ├── InfoSec Tips 20171004 藍牙爆出大漏洞 全球 53 億個設備中獎
+│   │   ├── InfoSec Tips 20171012 小心手機鏡頭 洩露個人資料
+│   │   ├── InfoSec Tips 20171027 認親認戚的冒充公司lT管理員欺詐電郵又見活躍
+│   │   ├── InfoSec Tips 20171107 九州攻略  定係勒索攻略  縱橫遊資料被黑客上鎖換贖金
+│   │   ├── InfoSec Tips 20180105 再有本港旅行社疑遭黑客入侵
+│   │   ├── InfoSec Tips 20180209 情人節及新春期間  提防黒客惡意攻擊
+│   │   └── InfoSec Tips 20180323 釣魚郵件安全意識演練
+│   └── 數碼講
+├── IT User Guide & Setup Info
+│   ├── Desktop Backup Service
+│   ├── Outlook Web Access Service
+│   ├── Print Queue List
+│   ├── Skype for Business (Unified Communcation)
+│   ├── TowngasDrive User Guide
+│   │   ├── 1. TowngasDrive - Create and share a folder (Quick ref)
+│   │   ├── 2. TowngasDrive - Share a File (Quick Ref)
+│   │   ├── 3. TowngasDrive - Request a File (Quick Ref)
+│   │   ├── 4. TowngasDrive - Forgot Password (Quick Ref)
+│   │   ├── 5. TowngasDrive - For invited parties to upload files (Quick Ref)
+│   │   ├── 6. TowngasDrive - Setup a rule in Outlook (Quick Ref)
+│   │   ├── Towngas - Citrix ShareFile Self-Service End User Guide v1.3
+│   │   └── TowngasDrive - Share Account briefing
+│   └── Wireless Lan
+│       ├── 2012
+│       │   ├── How to Logon CWLAN06 Network through Wireless Connection version 2.2
+│       │   ├── How to Logon CWLAN16 Network through Wireless Connection version 3.0
+│       │   ├── How to Logon EWLAN08 Network through Wireless Connection version 2.1
+│       │   ├── How to Logon EWLAN18 Network through Wireless Connection version 3.0
+│       │   ├── How to Logon GWIFIA2 Network through Wireless Connection version 3.0
+│       │   ├── How to Logon GWLAN02 Network through Wireless Connection version 2.1
+│       │   ├── How to Logon IWIFIA1 Network through Wireless Connection version 3.0
+│       │   ├── How to Logon SWIF09 or SWIFIA9 Network through Wireless Connection version 3.0
+│       │   ├── Wireless_LAN_Service_in_NPB
+│       │   ├── Wireless_LAN_Service_in_NPB version 3.0
+│       │   └── Wireless_LAN_Service_in_NPB version 3.1
+│       ├── Good user email
+│       ├── How to Logon CWLAN16 Network through Wireless Connection version 4.0
+│       ├── How to Logon EWLAN18 Network through Wireless Connection version 4.0
+│       ├── How to Logon GWIFIA2 Network through Wireless Connection version 3.0
+│       ├── How to Logon IWIFIA1 Network through Wireless Connection version 3.0
+│       ├── How to Logon SWIFIA9 Network through Wireless Connection version 3.0
+│       └── Wireless_LAN_Service_in_NPB version 4.0
+├── Info Classification - Confidential
+├── Info Classification - Restricted
+├── Information Classification
+│   ├── Classification List
+│   │   ├── CITD Information Classification
+│   │   ├── Information classification List template
+│   │   ├── Information classification List v1.1 (draft v2)
+│   │   ├── Information classification List v1.1 (draft)
+│   │   ├── Information classification List v1.2 (draft v4)
+│   │   └── Information classification List v1.3
+│   └── Policy
+├── Information Security
+│   └── Information Security Committee
+│       └── Mass Communication
+│           ├── Departmental Information Security Administrator Briefing
+│           ├── Departmental Information Security Administrator List_20151209
+│           ├── Departmental Information Security Administrator List_20160315
+│           ├── Departmental Information Security Administrator List_20160415
+│           ├── Departmental Information Security Administrator List_20160422 v2
+│           ├── Departmental Information Security Administrator List_20170118
+│           ├── Departmental Information Security Administrator List_20170216
+│           ├── Departmental Information Security Administrator List_20170217
+│           ├── Departmental Information Security Administrator List_20170301
+│           ├── Departmental Information Security Administrator List_20170327
+│           ├── Departmental Information Security Administrator List_20180214
+│           ├── Departmental Information Security Administrator List_20180313
+│           ├── Departmental Information Security Administrator List_20180314
+│           ├── Guidelines for using Information Classification Repository v2.0
+│           ├── Information Classification (Mass Comm)
+│           ├── Information Classification Policy (effective since 1st Jan 2013)
+│           ├── Information Classification Policy (revised 8-2-2013)
+│           ├── Information classification List template
+│           ├── Intro to PDPO Amendment_1.1
+│           └── Refreshment of departmental ICR 2015 v4
+├── Introduction
+├── NGDS
+│   ├── Standard Build Environment Content List (2015)
+│   ├── TG_Win10_ComputerSecurityCompliance_1.4
+│   ├── Tips of the Week
+│   │   ├── Tips of the Week  01 - Interactive Guide
+│   │   ├── Tips of the Week  02 - Quick Access Toolbar
+│   │   ├── Tips of the Week  03 - Show Desktop
+│   │   ├── Tips of the Week  04 - Pin to Taskbar
+│   │   ├── Tips of the Week  05 - Compare Document
+│   │   ├── Tips of the Week  06 - Windows Search
+│   │   ├── Tips of the Week  07 - Sticky Notes
+│   │   ├── Tips of the Week  08 - Snipping Tool
+│   │   ├── Tips of the Week  09 - Problem Steps Recorder
+│   │   ├── Tips of the Week  10 - Magnifier
+│   │   ├── Tips of the Week  11 - Saving PDF
+│   │   ├── Tips of the Week  12 - Pinning Document
+│   │   ├── Tips of the Week  13 - Insert Screenshot
+│   │   ├── Tips of the Week  14 - Outlook Jumplist
+│   │   ├── Tips of the Week  15 - Animation Painter
+│   │   └── Tips of the Week  16 - Alt Key
+│   ├── VDI
+│   │   ├── List for Supported Devices
+│   │   │   └── Client Device List for VDI Services
+│   │   ├── VDI - FAQ
+│   │   │   ├── Setup step for renew VDI mobile device (Android device)
+│   │   │   ├── Setup step for renew VDI mobile device (iOS device)
+│   │   │   ├── VDI common errors_V1
+│   │   │   └── VDI new web interface logon procedure_V1
+│   │   └── VDI Installation Guide
+│   │       ├── VDI Installation Guide for Android
+│   │       ├── VDI Installation Guide for Mac OS
+│   │       ├── VDI Installation Guide for Windows
+│   │       ├── VDI Installation Guide for iOS
+│   │       └── VDI installation guide for Windows 10 browser
+│   ├── Win10_SOE_release_note
+│   ├── Win7 User List
+│   ├── Win7 and Office 2010
+│   │   ├── Access2010
+│   │   │   ├── Access 2010 - 使用範本建立資料庫
+│   │   │   └── Access 2010 - 資料庫設計度身訂造
+│   │   ├── Excel2003_to_2010_Reference
+│   │   ├── Excel2010
+│   │   │   ├── Excel 2010 - 交叉分析篩選器Slicer
+│   │   │   ├── Excel 2010 - 數據分析報表 Pivot Table
+│   │   │   └── Excel 2010 - 走勢圖 Sparkline
+│   │   ├── How to compress image by using Microsoft Office Picture Manager
+│   │   ├── Microsoft Office 2010 Interactive Menu
+│   │   │   └── Microsoft Office 2010 Interactive Menu with Silver Light
+│   │   ├── Office2010
+│   │   │   ├── Office 2010 介面簡介(一)
+│   │   │   └── Office 2010 介面簡介(二)
+│   │   ├── Outlook2003_to_2010_Reference
+│   │   ├── Outlook2010
+│   │   │   ├── Outlook 2010 - Conversation View追蹤郵件
+│   │   │   ├── Outlook 2010 - Instant Search 加快搜尋
+│   │   │   ├── Outlook 2010 - 建立個人資料夾檔案 (.pst檔)
+│   │   │   └── Outlook 2010 - 建立快速步驟
+│   │   ├── PowerPoint2003_to_2010_Reference
+│   │   ├── PowerPoint2010
+│   │   │   ├── How to compress a powerpoint file
+│   │   │   ├── Power Point 2010 - 修改圖像及影片
+│   │   │   ├── Power Point 2010 - 壓縮圖像及影片
+│   │   │   └── Power Point 2010 - 將簡報儲存成視訊
+│   │   ├── Windows 7
+│   │   │   ├── Change_windows_settings_變更 Windows 設定
+│   │   │   └── Find_files_尋找檔案
+│   │   ├── Word2003_to_2010_Reference
+│   │   └── Word2010
+│   │       ├── Word 2010 - Ribbon and BackStage
+│   │       ├── Word 2010 - 註解及檢查文件
+│   │       └── Word 2010 - 迷你翻譯工具
+│   ├── Win7(64-bit)_SOE_release_note
+│   ├── Win7_SOE_release_note
+│   └── local Admin right
+│       ├── CITD_local_admin_right_apply_form_v1 1
+│       └── CITD_local_admin_right_flow_v1 1
+├── Organization Chart
+├── Policies, Procedures & Standards
+├── Services Request
+│   ├── ITSM
+│   ├── Inventory Management
+│   ├── Outstanding IT Request and Usernet
+│   │   ├── 20140401 Usernet Outstanding Report - TGWiKi
+│   │   ├── Archive
+│   │   ├── IT Request Job Queue Report (12Nov2014)
+│   │   └── IT Request Job Queue Report (20May2014)
+│   ├── PC Buyer
+│   ├── Self-Service Password Reset
+│   ├── Service Catalogue
+│   ├── Service Desk Status Enquiry
+│   └── Service Desk User Guide
+├── Technology Update
+│   ├── AR and VR Technology
+│   │   ├── 01-Virtual Tour
+│   │   │   ├── Mia Cucina Kitchen Cabinet At Eden Manor
+│   │   │   ├── Mia Cucina Kitchen Cabinet At Eden Manor (Only Kitchen)
+│   │   │   ├── Mia Cucina, Kitchen by Towngas
+│   │   │   ├── Tai Po Plant F803  Reformer( Require password)
+│   │   │   ├── Towngas 11F
+│   │   │   ├── Towngas Customer Center
+│   │   │   │   ├── 煤氣客戶中心（ 將軍澳）
+│   │   │   │   ├── 煤氣客戶中心（九龍灣）
+│   │   │   │   ├── 煤氣客戶中心（元朗）
+│   │   │   │   ├── 煤氣客戶中心（北角）
+│   │   │   │   ├── 煤氣客戶中心（大埔）
+│   │   │   │   ├── 煤氣客戶中心（天水圍）
+│   │   │   │   ├── 煤氣客戶中心（尖沙咀中港城）
+│   │   │   │   ├── 煤氣客戶中心（尖沙咀漆咸道南）
+│   │   │   │   ├── 煤氣客戶中心（屯門）
+│   │   │   │   ├── 煤氣客戶中心（康怡）
+│   │   │   │   ├── 煤氣客戶中心（旺角）
+│   │   │   │   ├── 煤氣客戶中心（柴灣）
+│   │   │   │   ├── 煤氣客戶中心（樂富）
+│   │   │   │   ├── 煤氣客戶中心（沙田）
+│   │   │   │   ├── 煤氣客戶中心（灣仔）
+│   │   │   │   ├── 煤氣客戶中心（紅磡）
+│   │   │   │   ├── 煤氣客戶中心（荃灣）
+│   │   │   │   ├── 煤氣客戶中心（藍田）
+│   │   │   │   ├── 煤氣客戶中心（青衣）
+│   │   │   │   ├── 煤氣客戶中心（香港仔）
+│   │   │   │   └── 煤氣客戶中心（馬鞍山）
+│   │   │   └── Towngas Hall Of Innovation
+│   │   ├── 02-Education,Training and Maintenance
+│   │   │   ├── 1.AR Equipment Training and Maintenance App[Ref]
+│   │   │   └── 2.AR TG Gas Chiller
+│   │   ├── 03-Retail
+│   │   │   ├── 1.HTC Vive virtual reality for hombuilders - VisualCommerce VR showroom[Ref]
+│   │   │   └── 2.VR kitchen[Ref]
+│   │   ├── 04-Marketing
+│   │   │   ├── 1.Virtual cooking _cocinaconBosch[Ref]
+│   │   │   ├── 2.Le Petit Chef[Ref]
+│   │   │   └── 3.UCanCook - AR cook book for people with learning difficulties-disabilities[Ref]
+│   │   ├── 05-Industrial Design
+│   │   │   └── 1.Volvo Cars- Partner Spotlight With Microsoft HoloLens[Ref]
+│   │   └── 06-Others
+│   │       ├── External
+│   │       │   ├── HTC Vive virtual reality for homebuilders - VisualCommerce VR showroom
+│   │       │   └── VR AR Technology - Vistual Tour and Maintenance
+│   │       └── Internal
+│   │           ├── AR chiller
+│   │           ├── Pipe Connection
+│   │           ├── VR Kitchen
+│   │           └── xensorylab PPT
+│   ├── ChatBot
+│   │   ├── Commercial Bank of Dubai
+│   │   └── Repair Virtual Booking Agent AI - Light version
+│   └── RFID
+│       ├── EBSL Presentation for Towngas
+│       └── Mobile Attendance System
+│           ├── EBSL Mofile_Attendance_for_TG_20170127
+│           └── Mobile Attendance System Video
+└── User Communication
+    ├── DECC Briefing PC replacement and End Point backup solution
+    ├── DECC Briefing on CIT inventory management System Phase 2
+    ├── DECC Briefing on Lunch & Learn Session for MS Win 7 Ent & Office 2010
+    ├── DECC Briefing on PC Buyer Revamp and Windows 7 + Office 2010 Upgrade
+    ├── DECC Briefing on Windows7 + Office 2010 Upgrade & PC Buyer revamp pre-show
+    ├── DECC briefing 20130802 for Email System Upgrade
+    ├── DECC briefing for Siebel users
+    ├── ITEIMS DECC User Manual
+    ├── ITSM Briefing 20140312 User Version
+    ├── Mobile Devices Acquisition Policy update record of Tablets
+    ├── TG ELearning Briefing Session – 20170724
+    └── Windows 7 and Office 2010 Briefing
+Homepage
+├── Award / Certificate
+├── Forms
+│   ├── Internal Forms
+│   │   ├── 3663 support guideline for New_SystemApplication_Name-Expired on YYYYMMDD
+│   │   ├── Apply FM200 training course
+│   │   ├── Backup Job Definition Change Request
+│   │   ├── Batch Job Definition Change Request Form
+│   │   ├── CCF Form (CRM and CS)
+│   │   ├── CMS_CCF09xxxx (template)
+│   │   ├── CRM_BI Request Deliverable Checklist Template
+│   │   ├── DataBase Backup Request Form
+│   │   ├── DataBase Restore Request Form
+│   │   ├── ERP_CCF09xxxx (template)
+│   │   ├── FDS_Approval_Form
+│   │   ├── IT Equipment in Data Center Movement Request
+│   │   ├── ITD Effort Estimation Template
+│   │   ├── Incident_update Ref xxxxxxxxxx (23May2014)
+│   │   ├── Re-org Checklist - New and Leaver
+│   │   ├── Request to access MTK 5 F Data Center - xxxxxxxxxx(dd-mm-yyyy)
+│   │   ├── Request to access TKO-SENT Server room - xxxxxxxxxx (ddmmyyyy)
+│   │   ├── Request to access Tsuen Wan 7F Server room - xxxxxxxxxx (ddmmyyyy)
+│   │   ├── Request to access Tuen Mun YKK 17F Server room - xxxxxxxxxx (ddmmyyyy)
+│   │   ├── Restore Request for Siebel User Preference File - Template
+│   │   ├── SAP_DeliverableChecklist
+│   │   ├── SAP_FDS
+│   │   ├── SLM_TMPL_SLR
+│   │   ├── Standards and Procedures Deviation Form
+│   │   └── Testcase
+│   └── Public Forms
+│       ├── Computer Data Maintenance Request Form
+│       ├── Copy Production Client and Data Restore Request Form
+│       ├── Exceptional Computer Data Amendment Request Form
+│       └── Tablet Acquisition Form
+├── IT Services Management
+│   ├── Business Systems Info
+│   │   ├── CMS Public Info
+│   │   │   ├── 20111207 DECC Briefing (Consolidated)_PDF
+│   │   │   ├── CMS Business Release Schedule
+│   │   │   │   └── CMS Business Release
+│   │   │   ├── CMS Data Archiving Schedule
+│   │   │   │   ├── 2012 CMS Archiving Schedule
+│   │   │   │   ├── 2013 CMS Archiving Schedule
+│   │   │   │   ├── 2014 CMS Archiving Schedule
+│   │   │   │   ├── 2015 CMS Archiving Schedule
+│   │   │   │   ├── 2016 CMS Archiving Schedule
+│   │   │   │   ├── 2017 CMS Archiving Schedule
+│   │   │   │   └── 2018 CMS Archiving Schedule
+│   │   │   ├── CMS Power Users
+│   │   │   │   └── CMS Power Users
+│   │   │   ├── CMS Process Owner
+│   │   │   │   └── CMS Process Owner
+│   │   │   ├── CMS User Forum Schedule
+│   │   │   │   ├── 2009 CMS User Forum Schedule
+│   │   │   │   ├── 2010 CMS User Forum Schedule
+│   │   │   │   ├── 2011 CMS User Forum Schedule
+│   │   │   │   ├── 2012 CMS User Forum Schedule
+│   │   │   │   ├── 2013 CMS User Forum Schedule
+│   │   │   │   ├── 2014_CMS_User_Forum_Schedule
+│   │   │   │   ├── 2015_CMS_User_Forum_Schedule
+│   │   │   │   ├── 2016 CMS User Forum Schedule
+│   │   │   │   ├── 2017 CMS User Forum Schedule
+│   │   │   │   └── 2018 CMS User Forum Schedule
+│   │   │   ├── SCCMCheck
+│   │   │   └── cms
+│   │   ├── CRM Public Info
+│   │   │   ├── CRM Business Release Schedule
+│   │   │   ├── CRM Module Owners (tgwiki)
+│   │   │   ├── CRM Power Users (tgwiki)
+│   │   │   ├── CRM and BI User Forum Member List
+│   │   │   ├── Customer_Remarks_Guildelines
+│   │   │   ├── Product and Pricing Committee Member List
+│   │   │   └── Siebel Responsibility Authorization List
+│   │   ├── CS Public Info
+│   │   │   └── Meeting notes
+│   │   │       ├── CS_UF20100223
+│   │   │       ├── CS_UF20100323
+│   │   │       ├── CS_UF20100420
+│   │   │       ├── CS_UF20100518
+│   │   │       ├── CS_UF20100720
+│   │   │       ├── CS_UF20100920
+│   │   │       ├── CS_UF20101118
+│   │   │       ├── CS_UF20110118
+│   │   │       ├── CS_UF20110315
+│   │   │       ├── CS_UF20110517
+│   │   │       ├── CS_UF20110920
+│   │   │       ├── CS_UF20111115
+│   │   │       ├── CS_UF20120117
+│   │   │       ├── CS_UF20120320
+│   │   │       ├── CS_UF20120515
+│   │   │       ├── CS_UF20120717
+│   │   │       ├── CS_UF20120918
+│   │   │       ├── CS_UF20130322
+│   │   │       ├── CS_UF20130516
+│   │   │       ├── CS_UF20130709
+│   │   │       ├── CS_UF20130910
+│   │   │       ├── CS_UF20131112
+│   │   │       ├── CS_UF20140114
+│   │   │       ├── CS_UF20140318
+│   │   │       ├── CS_UF20140516
+│   │   │       ├── CS_UF20140722
+│   │   │       ├── CS_UF20140929
+│   │   │       ├── CS_UF20141202
+│   │   │       ├── CS_UF20150210
+│   │   │       └── CS_UF20150414
+│   │   ├── ERP Public Info
+│   │   │   ├── ERP Archiving Schedule
+│   │   │   │   ├── 2008 ERP Archiving Schedule
+│   │   │   │   ├── 2009 ERP Archiving Schedule
+│   │   │   │   ├── 2010 ERP Archiving Schedule
+│   │   │   │   ├── 2011 ERP Archiving Schedule
+│   │   │   │   ├── 2012 ERP Archiving Schedule
+│   │   │   │   ├── 2013 ERP Archiving Schedule
+│   │   │   │   ├── 2014 ERP Archiving Schedule
+│   │   │   │   ├── 2015 ERP Archiving Schedule
+│   │   │   │   ├── 2016 ERP Archiving Schedule
+│   │   │   │   ├── 2017 ERP Archiving Schedule
+│   │   │   │   └── 2018 ERP Archiving Schedule
+│   │   │   ├── ERP Business Release Schedule
+│   │   │   │   └── ERP Business Release Schedule
+│   │   │   ├── ERP Power User
+│   │   │   │   └── SAP Power User
+│   │   │   ├── ERP Process Owner
+│   │   │   │   └── ERP Process Owner
+│   │   │   ├── ERP User Forum Meeting Minutes
+│   │   │   │   ├── SAPUF20090423
+│   │   │   │   ├── SAPUF20090521
+│   │   │   │   ├── SAPUF20090625
+│   │   │   │   ├── SAPUF20091022
+│   │   │   │   ├── SAPUF20091217
+│   │   │   │   ├── SAPUF20100204
+│   │   │   │   ├── SAPUF20100401
+│   │   │   │   ├── SAPUF20100604
+│   │   │   │   ├── SAPUF20100805
+│   │   │   │   ├── SAPUF20101007
+│   │   │   │   ├── SAPUF20110128
+│   │   │   │   ├── SAPUF20110407
+│   │   │   │   ├── SAPUF20110602
+│   │   │   │   ├── SAPUF20110804
+│   │   │   │   ├── SAPUF20111006
+│   │   │   │   ├── SAPUF20111201
+│   │   │   │   ├── SAPUF20120208
+│   │   │   │   ├── SAPUF20120330
+│   │   │   │   ├── SAPUF20120607
+│   │   │   │   ├── SAPUF20120801
+│   │   │   │   ├── SAPUF20121004
+│   │   │   │   ├── SAPUF20121206
+│   │   │   │   ├── SAPUF20130207
+│   │   │   │   ├── SAPUF20130411
+│   │   │   │   ├── SAPUF20130606
+│   │   │   │   ├── SAPUF20130801
+│   │   │   │   ├── SAPUF20131003
+│   │   │   │   ├── SAPUF20131205
+│   │   │   │   ├── SAPUF20140207
+│   │   │   │   └── SAPUF20140404
+│   │   │   ├── ERP User Forum Schedule
+│   │   │   │   ├── 2008 ERP User Forum Schedule
+│   │   │   │   ├── 2009 ERP User Forum Schedule
+│   │   │   │   ├── 2010 ERP User Forum Schedule
+│   │   │   │   ├── 2011 ERP User Forum Schedule
+│   │   │   │   ├── 2012 ERP User Forum Schedule
+│   │   │   │   ├── 2013 ERP User Forum Schedule
+│   │   │   │   ├── 2014 ERP User Forum Schedule
+│   │   │   │   ├── 2015 ERP User Forum Schedule
+│   │   │   │   └── 2016 ERP User Forum Schedule
+│   │   │   └── Useful Information
+│   │   │       └── Actionable Steps to Accelerating Your Cash Flow
+│   │   │           ├── PrimaryOffer_Final_data_3980_TL_FSCM_50095690_us
+│   │   │           ├── SupportingOffer_CaseStudy_STEF-TFE_RecAndCollectDisputeMng
+│   │   │           └── SupportingOffer_ThoughtLeadership_Technology_Solutions_for_Improving_Cash_and_Liquidity_Management
+│   │   └── TGBI / OLAP Public Info
+│   │       ├── TGBI System Authorization List
+│   │       └── TGBI User
+│   ├── Client Services Manager
+│   ├── Compliment\Complaint
+│   ├── DECC List
+│   ├── ISO 20000 Process Guide
+│   │   ├── BRM_PG4.0
+│   │   ├── BUA_PG2.3
+│   │   ├── CHM_PG.6.2
+│   │   ├── CNM_PG 6.3
+│   │   ├── CPM_PG 2.3
+│   │   ├── INM_PG3.7
+│   │   ├── ISM_PG2.5
+│   │   ├── PRM_PG2.7
+│   │   ├── Processes Integration_v1
+│   │   ├── RLM_PG3.1
+│   │   ├── SCA_PG.3.1
+│   │   ├── SER_PG.2.1
+│   │   ├── SLM_PG2.6
+│   │   └── SPM_PG2.12
+│   ├── IT Service Reports
+│   │   ├── ITD Service Catalogue
+│   │   ├── Service Level Agreement
+│   │   │   ├── SLM_DOC_SLA CMS
+│   │   │   ├── SLM_DOC_SLA CRM
+│   │   │   └── SLM_DOC_SLA ERP
+│   │   ├── Service Level Results
+│   │   │   ├── 2010
+│   │   │   │   ├── Service Level Result - 201001
+│   │   │   │   ├── Service Level Result - 201002
+│   │   │   │   ├── Service Level Result - 201003
+│   │   │   │   ├── Service Level Result - 201004
+│   │   │   │   ├── Service Level Result - 201005
+│   │   │   │   ├── Service Level Result - 201006
+│   │   │   │   ├── Service Level Result - 201007
+│   │   │   │   ├── Service Level Result - 201008
+│   │   │   │   ├── Service Level Result - 201009
+│   │   │   │   ├── Service Level Result - 201010
+│   │   │   │   ├── Service Level Result - 201011
+│   │   │   │   └── Service Level Result - 201012
+│   │   │   ├── 2011
+│   │   │   │   ├── Service Level Result - 201101
+│   │   │   │   ├── Service Level Result - 201102
+│   │   │   │   ├── Service Level Result - 201103
+│   │   │   │   ├── Service Level Result - 201104
+│   │   │   │   ├── Service Level Result - 201105
+│   │   │   │   ├── Service Level Result - 201106
+│   │   │   │   ├── Service Level Result - 201107
+│   │   │   │   ├── Service Level Result - 201108
+│   │   │   │   ├── Service Level Result - 201109
+│   │   │   │   ├── Service Level Result - 201110
+│   │   │   │   ├── Service Level Result - 201111
+│   │   │   │   └── Service Level Result - 201112
+│   │   │   ├── 2012
+│   │   │   │   ├── Service Level Result - 201201
+│   │   │   │   ├── Service Level Result - 201202
+│   │   │   │   ├── Service Level Result - 201203
+│   │   │   │   ├── Service Level Result - 201204
+│   │   │   │   ├── Service Level Result - 201205
+│   │   │   │   ├── Service Level Result - 201206
+│   │   │   │   ├── Service Level Result - 201207
+│   │   │   │   ├── Service Level Result - 201208
+│   │   │   │   ├── Service Level Result - 201209
+│   │   │   │   ├── Service Level Result - 201210
+│   │   │   │   ├── Service Level Result - 201211
+│   │   │   │   └── Service Level Result - 201212
+│   │   │   ├── 2013
+│   │   │   │   ├── Service Level Result - 201301
+│   │   │   │   ├── Service Level Result - 201302
+│   │   │   │   ├── Service Level Result - 201303
+│   │   │   │   ├── Service Level Result - 201304
+│   │   │   │   ├── Service Level Result - 201305
+│   │   │   │   ├── Service Level Result - 201306
+│   │   │   │   ├── Service Level Result - 201307
+│   │   │   │   ├── Service Level Result - 201308
+│   │   │   │   ├── Service Level Result - 201309
+│   │   │   │   ├── Service Level Result - 201310
+│   │   │   │   ├── Service Level Result - 201311
+│   │   │   │   └── Service Level Result - 201312
+│   │   │   ├── 2014
+│   │   │   │   ├── Service Level Result - 201401
+│   │   │   │   ├── Service Level Result - 201402
+│   │   │   │   ├── Service Level Result - 201403
+│   │   │   │   ├── Service Level Result - 201404
+│   │   │   │   ├── Service Level Result - 201405
+│   │   │   │   ├── Service Level Result - 201406
+│   │   │   │   ├── Service Level Result - 201407
+│   │   │   │   ├── Service Level Result - 201408
+│   │   │   │   ├── Service Level Result - 201409
+│   │   │   │   ├── Service Level Result - 201410
+│   │   │   │   ├── Service Level Result - 201411
+│   │   │   │   └── Service Level Result - 201412
+│   │   │   ├── 2015
+│   │   │   │   ├── Service Level Result - 201501
+│   │   │   │   ├── Service Level Result - 201502
+│   │   │   │   ├── Service Level Result - 201503
+│   │   │   │   ├── Service Level Result - 201504
+│   │   │   │   ├── Service Level Result - 201505
+│   │   │   │   ├── Service Level Result - 201506
+│   │   │   │   ├── Service Level Result - 201507
+│   │   │   │   ├── Service Level Result - 201508
+│   │   │   │   ├── Service Level Result - 201509
+│   │   │   │   ├── Service Level Result - 201510
+│   │   │   │   ├── Service Level Result - 201511
+│   │   │   │   └── Service Level Result - 201512
+│   │   │   ├── 2016
+│   │   │   │   ├── Service Level Result - 201601
+│   │   │   │   ├── Service Level Result - 201602
+│   │   │   │   ├── Service Level Result - 201603
+│   │   │   │   ├── Service Level Result - 201604
+│   │   │   │   ├── Service Level Result - 201605
+│   │   │   │   ├── Service Level Result - 201606
+│   │   │   │   ├── Service Level Result - 201607
+│   │   │   │   ├── Service Level Result - 201608
+│   │   │   │   ├── Service Level Result - 201609
+│   │   │   │   ├── Service Level Result - 201610
+│   │   │   │   ├── Service Level Result - 201611
+│   │   │   │   └── Service Level Result - 201612
+│   │   │   ├── 2017
+│   │   │   │   ├── Service Level Result - 201701
+│   │   │   │   ├── Service Level Result - 201702
+│   │   │   │   ├── Service Level Result - 201703
+│   │   │   │   ├── Service Level Result - 201704
+│   │   │   │   ├── Service Level Result - 201705
+│   │   │   │   ├── Service Level Result - 201706
+│   │   │   │   ├── Service Level Result - 201707
+│   │   │   │   ├── Service Level Result - 201708
+│   │   │   │   ├── Service Level Result - 201709
+│   │   │   │   ├── Service Level Result - 201710
+│   │   │   │   ├── Service Level Result - 201711
+│   │   │   │   └── Service Level Result - 201712
+│   │   │   ├── 2018
+│   │   │   │   ├── Service Level Result - 201801
+│   │   │   │   ├── Service Level Result - 201802
+│   │   │   │   ├── Service Level Result - 201803
+│   │   │   │   ├── Service Level Result - 201804
+│   │   │   │   └── Service Level Result - 201805
+│   │   │   ├── Service Level Result - 200903
+│   │   │   ├── Service Level Result - 200904
+│   │   │   ├── Service Level Result - 200905
+│   │   │   ├── Service Level Result - 200906
+│   │   │   ├── Service Level Result - 200907
+│   │   │   ├── Service Level Result - 200908
+│   │   │   ├── Service Level Result - 200909
+│   │   │   ├── Service Level Result - 200910
+│   │   │   ├── Service Level Result - 200911
+│   │   │   └── Service Level Result - 200912
+│   │   └── Services Satisfaction Survey Result
+│   │       ├── 2010 IT Services Satisfaction Survey Report
+│   │       ├── 2011 IT Services Satisfaction Survey Report
+│   │       ├── 2012 IT Services Satisfaction Survey Report
+│   │       ├── 2013 IT Services Satisfaction Survey Report
+│   │       ├── 2015 IT Services Satisfaction Survey Report
+│   │       └── 2017 IT Services Satisfaction Survey Report
+│   └── Service Level Agreement
+│       ├── SLM_DOC_SLA CMS
+│       ├── SLM_DOC_SLA CRM
+│       └── SLM_DOC_SLA ERP
+├── IT Tips
+│   ├── Hardware
+│   │   └── 滑鼠類型簡介
+│   ├── MS Windows, IE & Office
+│   │   ├── Add White list in outlook
+│   │   ├── How to reduce PST file
+│   │   ├── How to reduce ost file
+│   │   ├── Internet Explorer 10 connect OWA
+│   │   ├── Java security config for Lighting system
+│   │   ├── Quick access guide on Towngas OWA
+│   │   ├── Start using Internet Explorer 11
+│   │   ├── To make IE as default browser
+│   │   ├── 保護螢幕幻燈片
+│   │   ├── 做個醒目電郵使用者
+│   │   ├── 如何封存archive郵件
+│   │   ├── 我在工作時經常需要同時開啟多個軟件,導致很多視窗互相交叠在屏幕上-怎樣能把所有視窗一起收下呢
+│   │   ├── 把文件內的簡體字標示拼音
+│   │   ├── 文件開太多-查找無難度
+│   │   ├── 有否方法把我喜歡的Windows Explorer顯示模式成為常設Default呢
+│   │   ├── 活用鍵盤快速鍵
+│   │   ├── 為何有些時間-我不能夠在OWA上刪除電郵呢
+│   │   ├── 為簡報檔案中的圖片輕鬆地除去底色
+│   │   └── 行事曆封存方法
+│   ├── Network
+│   │   └── 怎樣檢查電腦的網路連接是否正常
+│   ├── Others
+│   │   ├── Google 搜尋話咁易
+│   │   ├── rar的壓縮檔公司的IZArc無法解壓-有時在解壓過程中會出現Error的錯誤信息
+│   │   ├── 有什麼簡單的方法-可以減低數碼相片的解像度-從而縮細檔案的大小 (Windows 7 and 10)
+│   │   └── 有什麼簡單的方法-可以減低數碼相片的解像度-從而縮細檔案的大小 (Windows XP)
+│   ├── Printing
+│   │   ├── Print Queue List
+│   │   ├── Print Queue Migration List
+│   │   ├── 為什麼我的文件仍未打印出來
+│   │   └── 點解print出來的文件會轉了樣貌-有什麽解決方法
+│   ├── Security
+│   │   ├── 2014
+│   │   │   ├── InfoSec Tips 20140129 誰洩露我的最爛密碼
+│   │   │   ├── InfoSec Tips 20140402 搵個好密碼
+│   │   │   ├── InfoSec Tips 20140603 襲Android手機放病毒
+│   │   │   ├── InfoSec Tips 20140721資安小錦囊 - 暑假網詐- 這陷阱-這陷阱-偏我遇上
+│   │   │   ├── InfoSec Tips 20141007 你安裝了的Apps是否安全嗎
+│   │   │   └── InfoSec Tips 20141223 佳節網購要小心 免誤中釣魚陷阱
+│   │   ├── 2015
+│   │   │   ├── InfoSec Tips 20150213 葉劉都中招，千祈咪睇小
+│   │   │   ├── InfoSec Tips 20150331 「漁」人節， 小心病毒整蠱你
+│   │   │   ├── InfoSec Tips 20150626 社交工程騙案再現  騙徒假扮公安致電
+│   │   │   ├── InfoSec Tips 20150827 用得公共WiFi 預咗會瀨嘢
+│   │   │   └── InfoSec Tips 20151111 邊有咁大隻蛤乸隨街跳
+│   │   ├── 2016
+│   │   │   ├── InfoSec Tips 20160204 外遊做妥保安3件事-出門旅行安心又寫意
+│   │   │   ├── InfoSec Tips 20160212 上網要小心-慎防惡意程式入侵 
+│   │   │   ├── InfoSec Tips 20160217 電腦中咗招 快行三步曲
+│   │   │   ├── InfoSec Tips 20160307 勒索軟件猖獗-一不留神-分分鐘中招-電腦檔案隨即報廢
+│   │   │   ├── InfoSec Tips 20160322 勒索軟件又變種-提高機覺免中伏
+│   │   │   ├── InfoSec Tips 20160415 停車要熄匙 - 收工要登出-熄機
+│   │   │   ├── InfoSec Tips 20160525 社交工程陷阱篇之 咪以為係VIP-裝咗就低B-WhatsApp黃金版騙局
+│   │   │   ├── InfoSec Tips 20160610 社交工程陷阱篇之真假波士電郵要分清 - 否則騙徒呃錢一鋪清
+│   │   │   ├── InfoSec Tips 20160616 財經透視 對抗黑客
+│   │   │   ├── InfoSec Tips 20160718 究竟為什麼 帳號常被鎖
+│   │   │   ├── InfoSec Tips 20160810 「極度危險」警告 - Android流動設備最新高危漏洞 (QuadRooter)
+│   │   │   └── InfoSec Tips 20161118 網騙肆虐  一Click即中
+│   │   ├── Archive
+│   │   │   ├── Change Windows domain password via Towngas Outlook Web Acc…
+│   │   │   ├── How to change Windows Domain and VPN account Passwords fro…
+│   │   │   ├── How to delegate email system permissions
+│   │   │   ├── How using IZArc to Encrypt and Decrypt the file (Part 2)
+│   │   │   ├── How using IZArc to Encrypt and Decrypt the files
+│   │   │   ├── 如何使用加密籲匙 Corp08Q3 (或稱 Local_Corp08Q3@2008-06-05)加密檔案,以避免在公司以外的電腦無法開啟在移動記憶體內被 Utimaco 加密了的檔案
+│   │   │   ├── 如何在公司以外的電腦-開啟USB removable storage已加密的公司文件
+│   │   │   ├── 我部門經常有些檔案用 USB flash storage或floppy交予承包商-但檔案加密後要開啟-只可以用公司之鑰匙及密碼-請問如何解決
+│   │   │   └── 點解我明明裝咗防病毒軟件都會中毒
+│   │   ├── InfoSec Tips 20170513 黑客勒索軟件 WANNACRY 肆虐全球 近百國及香港受影響 
+│   │   ├── InfoSec Tips 20170515 有關 WannaCry 勒索軟件，給手提電腦同事的忠告
+│   │   ├── InfoSec Tips 20170628 勒索病毒又來-歐洲多國正遭受大量網路攻擊
+│   │   ├── InfoSec Tips 20170811 自己密碼自己改 - Windows Account Self-Service Portal 帳戶自助服務
+│   │   ├── InfoSec Tips 20170901 話送你兩張機票，實騙取個人資料
+│   │   ├── InfoSec Tips 20171004 藍牙爆出大漏洞 全球 53 億個設備中獎
+│   │   ├── InfoSec Tips 20171012 小心手機鏡頭 洩露個人資料
+│   │   ├── InfoSec Tips 20171027 認親認戚的冒充公司lT管理員欺詐電郵又見活躍
+│   │   ├── InfoSec Tips 20171107 九州攻略  定係勒索攻略  縱橫遊資料被黑客上鎖換贖金
+│   │   ├── InfoSec Tips 20180105 再有本港旅行社疑遭黑客入侵
+│   │   ├── InfoSec Tips 20180209 情人節及新春期間  提防黒客惡意攻擊
+│   │   └── InfoSec Tips 20180323 釣魚郵件安全意識演練
+│   └── 數碼講
+├── IT User Guide & Setup Info
+│   ├── Desktop Backup Service
+│   ├── Outlook Web Access Service
+│   ├── Print Queue List
+│   ├── Skype for Business (Unified Communcation)
+│   ├── TowngasDrive User Guide
+│   │   ├── 1. TowngasDrive - Create and share a folder (Quick ref)
+│   │   ├── 2. TowngasDrive - Share a File (Quick Ref)
+│   │   ├── 3. TowngasDrive - Request a File (Quick Ref)
+│   │   ├── 4. TowngasDrive - Forgot Password (Quick Ref)
+│   │   ├── 5. TowngasDrive - For invited parties to upload files (Quick Ref)
+│   │   ├── 6. TowngasDrive - Setup a rule in Outlook (Quick Ref)
+│   │   ├── Towngas - Citrix ShareFile Self-Service End User Guide v1.3
+│   │   └── TowngasDrive - Share Account briefing
+│   └── Wireless Lan
+│       ├── 2012
+│       │   ├── How to Logon CWLAN06 Network through Wireless Connection version 2.2
+│       │   ├── How to Logon CWLAN16 Network through Wireless Connection version 3.0
+│       │   ├── How to Logon EWLAN08 Network through Wireless Connection version 2.1
+│       │   ├── How to Logon EWLAN18 Network through Wireless Connection version 3.0
+│       │   ├── How to Logon GWIFIA2 Network through Wireless Connection version 3.0
+│       │   ├── How to Logon GWLAN02 Network through Wireless Connection version 2.1
+│       │   ├── How to Logon IWIFIA1 Network through Wireless Connection version 3.0
+│       │   ├── How to Logon SWIF09 or SWIFIA9 Network through Wireless Connection version 3.0
+│       │   ├── Wireless_LAN_Service_in_NPB
+│       │   ├── Wireless_LAN_Service_in_NPB version 3.0
+│       │   └── Wireless_LAN_Service_in_NPB version 3.1
+│       ├── Good user email
+│       ├── How to Logon CWLAN16 Network through Wireless Connection version 4.0
+│       ├── How to Logon EWLAN18 Network through Wireless Connection version 4.0
+│       ├── How to Logon GWIFIA2 Network through Wireless Connection version 3.0
+│       ├── How to Logon IWIFIA1 Network through Wireless Connection version 3.0
+│       ├── How to Logon SWIFIA9 Network through Wireless Connection version 3.0
+│       └── Wireless_LAN_Service_in_NPB version 4.0
+├── Info Classification - Confidential
+├── Info Classification - Restricted
+├── Information Classification
+│   ├── Classification List
+│   │   ├── CITD Information Classification
+│   │   ├── Information classification List template
+│   │   ├── Information classification List v1.1 (draft v2)
+│   │   ├── Information classification List v1.1 (draft)
+│   │   ├── Information classification List v1.2 (draft v4)
+│   │   └── Information classification List v1.3
+│   └── Policy
+├── Information Security
+│   └── Information Security Committee
+│       └── Mass Communication
+│           ├── Departmental Information Security Administrator Briefing
+│           ├── Departmental Information Security Administrator List_20151209
+│           ├── Departmental Information Security Administrator List_20160315
+│           ├── Departmental Information Security Administrator List_20160415
+│           ├── Departmental Information Security Administrator List_20160422 v2
+│           ├── Departmental Information Security Administrator List_20170118
+│           ├── Departmental Information Security Administrator List_20170216
+│           ├── Departmental Information Security Administrator List_20170217
+│           ├── Departmental Information Security Administrator List_20170301
+│           ├── Departmental Information Security Administrator List_20170327
+│           ├── Departmental Information Security Administrator List_20180214
+│           ├── Departmental Information Security Administrator List_20180313
+│           ├── Departmental Information Security Administrator List_20180314
+│           ├── Guidelines for using Information Classification Repository v2.0
+│           ├── Information Classification (Mass Comm)
+│           ├── Information Classification Policy (effective since 1st Jan 2013)
+│           ├── Information Classification Policy (revised 8-2-2013)
+│           ├── Information classification List template
+│           ├── Intro to PDPO Amendment_1.1
+│           └── Refreshment of departmental ICR 2015 v4
+├── Introduction
+├── NGDS
+│   ├── Standard Build Environment Content List (2015)
+│   ├── TG_Win10_ComputerSecurityCompliance_1.4
+│   ├── Tips of the Week
+│   │   ├── Tips of the Week  01 - Interactive Guide
+│   │   ├── Tips of the Week  02 - Quick Access Toolbar
+│   │   ├── Tips of the Week  03 - Show Desktop
+│   │   ├── Tips of the Week  04 - Pin to Taskbar
+│   │   ├── Tips of the Week  05 - Compare Document
+│   │   ├── Tips of the Week  06 - Windows Search
+│   │   ├── Tips of the Week  07 - Sticky Notes
+│   │   ├── Tips of the Week  08 - Snipping Tool
+│   │   ├── Tips of the Week  09 - Problem Steps Recorder
+│   │   ├── Tips of the Week  10 - Magnifier
+│   │   ├── Tips of the Week  11 - Saving PDF
+│   │   ├── Tips of the Week  12 - Pinning Document
+│   │   ├── Tips of the Week  13 - Insert Screenshot
+│   │   ├── Tips of the Week  14 - Outlook Jumplist
+│   │   ├── Tips of the Week  15 - Animation Painter
+│   │   └── Tips of the Week  16 - Alt Key
+│   ├── VDI
+│   │   ├── List for Supported Devices
+│   │   │   └── Client Device List for VDI Services
+│   │   ├── VDI - FAQ
+│   │   │   ├── Setup step for renew VDI mobile device (Android device)
+│   │   │   ├── Setup step for renew VDI mobile device (iOS device)
+│   │   │   ├── VDI common errors_V1
+│   │   │   └── VDI new web interface logon procedure_V1
+│   │   └── VDI Installation Guide
+│   │       ├── VDI Installation Guide for Android
+│   │       ├── VDI Installation Guide for Mac OS
+│   │       ├── VDI Installation Guide for Windows
+│   │       ├── VDI Installation Guide for iOS
+│   │       └── VDI installation guide for Windows 10 browser
+│   ├── Win10_SOE_release_note
+│   ├── Win7 User List
+│   ├── Win7 and Office 2010
+│   │   ├── Access2010
+│   │   │   ├── Access 2010 - 使用範本建立資料庫
+│   │   │   └── Access 2010 - 資料庫設計度身訂造
+│   │   ├── Excel2003_to_2010_Reference
+│   │   ├── Excel2010
+│   │   │   ├── Excel 2010 - 交叉分析篩選器Slicer
+│   │   │   ├── Excel 2010 - 數據分析報表 Pivot Table
+│   │   │   └── Excel 2010 - 走勢圖 Sparkline
+│   │   ├── How to compress image by using Microsoft Office Picture Manager
+│   │   ├── Microsoft Office 2010 Interactive Menu
+│   │   │   └── Microsoft Office 2010 Interactive Menu with Silver Light
+│   │   ├── Office2010
+│   │   │   ├── Office 2010 介面簡介(一)
+│   │   │   └── Office 2010 介面簡介(二)
+│   │   ├── Outlook2003_to_2010_Reference
+│   │   ├── Outlook2010
+│   │   │   ├── Outlook 2010 - Conversation View追蹤郵件
+│   │   │   ├── Outlook 2010 - Instant Search 加快搜尋
+│   │   │   ├── Outlook 2010 - 建立個人資料夾檔案 (.pst檔)
+│   │   │   └── Outlook 2010 - 建立快速步驟
+│   │   ├── PowerPoint2003_to_2010_Reference
+│   │   ├── PowerPoint2010
+│   │   │   ├── How to compress a powerpoint file
+│   │   │   ├── Power Point 2010 - 修改圖像及影片
+│   │   │   ├── Power Point 2010 - 壓縮圖像及影片
+│   │   │   └── Power Point 2010 - 將簡報儲存成視訊
+│   │   ├── Windows 7
+│   │   │   ├── Change_windows_settings_變更 Windows 設定
+│   │   │   └── Find_files_尋找檔案
+│   │   ├── Word2003_to_2010_Reference
+│   │   └── Word2010
+│   │       ├── Word 2010 - Ribbon and BackStage
+│   │       ├── Word 2010 - 註解及檢查文件
+│   │       └── Word 2010 - 迷你翻譯工具
+│   ├── Win7(64-bit)_SOE_release_note
+│   ├── Win7_SOE_release_note
+│   └── local Admin right
+│       ├── CITD_local_admin_right_apply_form_v1 1
+│       └── CITD_local_admin_right_flow_v1 1
+├── Organization Chart
+├── Policies, Procedures & Standards
+├── Services Request
+│   ├── ITSM
+│   ├── Inventory Management
+│   ├── Outstanding IT Request and Usernet
+│   │   ├── 20140401 Usernet Outstanding Report - TGWiKi
+│   │   ├── Archive
+│   │   ├── IT Request Job Queue Report (12Nov2014)
+│   │   └── IT Request Job Queue Report (20May2014)
+│   ├── PC Buyer
+│   ├── Self-Service Password Reset
+│   ├── Service Catalogue
+│   ├── Service Desk Status Enquiry
+│   └── Service Desk User Guide
+├── Technology Update
+│   ├── AR and VR Technology
+│   │   ├── 01-Virtual Tour
+│   │   │   ├── Mia Cucina Kitchen Cabinet At Eden Manor
+│   │   │   ├── Mia Cucina Kitchen Cabinet At Eden Manor (Only Kitchen)
+│   │   │   ├── Mia Cucina, Kitchen by Towngas
+│   │   │   ├── Tai Po Plant F803  Reformer( Require password)
+│   │   │   ├── Towngas 11F
+│   │   │   ├── Towngas Customer Center
+│   │   │   │   ├── 煤氣客戶中心（ 將軍澳）
+│   │   │   │   ├── 煤氣客戶中心（九龍灣）
+│   │   │   │   ├── 煤氣客戶中心（元朗）
+│   │   │   │   ├── 煤氣客戶中心（北角）
+│   │   │   │   ├── 煤氣客戶中心（大埔）
+│   │   │   │   ├── 煤氣客戶中心（天水圍）
+│   │   │   │   ├── 煤氣客戶中心（尖沙咀中港城）
+│   │   │   │   ├── 煤氣客戶中心（尖沙咀漆咸道南）
+│   │   │   │   ├── 煤氣客戶中心（屯門）
+│   │   │   │   ├── 煤氣客戶中心（康怡）
+│   │   │   │   ├── 煤氣客戶中心（旺角）
+│   │   │   │   ├── 煤氣客戶中心（柴灣）
+│   │   │   │   ├── 煤氣客戶中心（樂富）
+│   │   │   │   ├── 煤氣客戶中心（沙田）
+│   │   │   │   ├── 煤氣客戶中心（灣仔）
+│   │   │   │   ├── 煤氣客戶中心（紅磡）
+│   │   │   │   ├── 煤氣客戶中心（荃灣）
+│   │   │   │   ├── 煤氣客戶中心（藍田）
+│   │   │   │   ├── 煤氣客戶中心（青衣）
+│   │   │   │   ├── 煤氣客戶中心（香港仔）
+│   │   │   │   └── 煤氣客戶中心（馬鞍山）
+│   │   │   └── Towngas Hall Of Innovation
+│   │   ├── 02-Education,Training and Maintenance
+│   │   │   ├── 1.AR Equipment Training and Maintenance App[Ref]
+│   │   │   └── 2.AR TG Gas Chiller
+│   │   ├── 03-Retail
+│   │   │   ├── 1.HTC Vive virtual reality for hombuilders - VisualCommerce VR showroom[Ref]
+│   │   │   └── 2.VR kitchen[Ref]
+│   │   ├── 04-Marketing
+│   │   │   ├── 1.Virtual cooking _cocinaconBosch[Ref]
+│   │   │   ├── 2.Le Petit Chef[Ref]
+│   │   │   └── 3.UCanCook - AR cook book for people with learning difficulties-disabilities[Ref]
+│   │   ├── 05-Industrial Design
+│   │   │   └── 1.Volvo Cars- Partner Spotlight With Microsoft HoloLens[Ref]
+│   │   └── 06-Others
+│   │       ├── External
+│   │       │   ├── HTC Vive virtual reality for homebuilders - VisualCommerce VR showroom
+│   │       │   └── VR AR Technology - Vistual Tour and Maintenance
+│   │       └── Internal
+│   │           ├── AR chiller
+│   │           ├── Pipe Connection
+│   │           ├── VR Kitchen
+│   │           └── xensorylab PPT
+│   ├── ChatBot
+│   │   ├── Commercial Bank of Dubai
+│   │   └── Repair Virtual Booking Agent AI - Light version
+│   └── RFID
+│       ├── EBSL Presentation for Towngas
+│       └── Mobile Attendance System
+│           ├── EBSL Mofile_Attendance_for_TG_20170127
+│           └── Mobile Attendance System Video
+└── User Communication
+    ├── DECC Briefing PC replacement and End Point backup solution
+    ├── DECC Briefing on CIT inventory management System Phase 2
+    ├── DECC Briefing on Lunch & Learn Session for MS Win 7 Ent & Office 2010
+    ├── DECC Briefing on PC Buyer Revamp and Windows 7 + Office 2010 Upgrade
+    ├── DECC Briefing on Windows7 + Office 2010 Upgrade & PC Buyer revamp pre-show
+    ├── DECC briefing 20130802 for Email System Upgrade
+    ├── DECC briefing for Siebel users
+    ├── ITEIMS DECC User Manual
+    ├── ITSM Briefing 20140312 User Version
+    ├── Mobile Devices Acquisition Policy update record of Tablets
+    ├── TG ELearning Briefing Session – 20170724
+    └── Windows 7 and Office 2010 Briefing
+Homepage
+├── Award / Certificate
+├── Forms
+│   ├── Internal Forms
+│   │   ├── 3663 support guideline for New_SystemApplication_Name-Expired on YYYYMMDD
+│   │   ├── Apply FM200 training course
+│   │   ├── Backup Job Definition Change Request
+│   │   ├── Batch Job Definition Change Request Form
+│   │   ├── CCF Form (CRM and CS)
+│   │   ├── CMS_CCF09xxxx (template)
+│   │   ├── CRM_BI Request Deliverable Checklist Template
+│   │   ├── DataBase Backup Request Form
+│   │   ├── DataBase Restore Request Form
+│   │   ├── ERP_CCF09xxxx (template)
+│   │   ├── FDS_Approval_Form
+│   │   ├── IT Equipment in Data Center Movement Request
+│   │   ├── ITD Effort Estimation Template
+│   │   ├── Incident_update Ref xxxxxxxxxx (23May2014)
+│   │   ├── Re-org Checklist - New and Leaver
+│   │   ├── Request to access MTK 5 F Data Center - xxxxxxxxxx(dd-mm-yyyy)
+│   │   ├── Request to access TKO-SENT Server room - xxxxxxxxxx (ddmmyyyy)
+│   │   ├── Request to access Tsuen Wan 7F Server room - xxxxxxxxxx (ddmmyyyy)
+│   │   ├── Request to access Tuen Mun YKK 17F Server room - xxxxxxxxxx (ddmmyyyy)
+│   │   ├── Restore Request for Siebel User Preference File - Template
+│   │   ├── SAP_DeliverableChecklist
+│   │   ├── SAP_FDS
+│   │   ├── SLM_TMPL_SLR
+│   │   ├── Standards and Procedures Deviation Form
+│   │   └── Testcase
+│   └── Public Forms
+│       ├── Computer Data Maintenance Request Form
+│       ├── Copy Production Client and Data Restore Request Form
+│       ├── Exceptional Computer Data Amendment Request Form
+│       └── Tablet Acquisition Form
+├── IT Services Management
+│   ├── Business Systems Info
+│   │   ├── CMS Public Info
+│   │   │   ├── 20111207 DECC Briefing (Consolidated)_PDF
+│   │   │   ├── CMS Business Release Schedule
+│   │   │   │   └── CMS Business Release
+│   │   │   ├── CMS Data Archiving Schedule
+│   │   │   │   ├── 2012 CMS Archiving Schedule
+│   │   │   │   ├── 2013 CMS Archiving Schedule
+│   │   │   │   ├── 2014 CMS Archiving Schedule
+│   │   │   │   ├── 2015 CMS Archiving Schedule
+│   │   │   │   ├── 2016 CMS Archiving Schedule
+│   │   │   │   ├── 2017 CMS Archiving Schedule
+│   │   │   │   └── 2018 CMS Archiving Schedule
+│   │   │   ├── CMS Power Users
+│   │   │   │   └── CMS Power Users
+│   │   │   ├── CMS Process Owner
+│   │   │   │   └── CMS Process Owner
+│   │   │   ├── CMS User Forum Schedule
+│   │   │   │   ├── 2009 CMS User Forum Schedule
+│   │   │   │   ├── 2010 CMS User Forum Schedule
+│   │   │   │   ├── 2011 CMS User Forum Schedule
+│   │   │   │   ├── 2012 CMS User Forum Schedule
+│   │   │   │   ├── 2013 CMS User Forum Schedule
+│   │   │   │   ├── 2014_CMS_User_Forum_Schedule
+│   │   │   │   ├── 2015_CMS_User_Forum_Schedule
+│   │   │   │   ├── 2016 CMS User Forum Schedule
+│   │   │   │   ├── 2017 CMS User Forum Schedule
+│   │   │   │   └── 2018 CMS User Forum Schedule
+│   │   │   ├── SCCMCheck
+│   │   │   └── cms
+│   │   ├── CRM Public Info
+│   │   │   ├── CRM Business Release Schedule
+│   │   │   ├── CRM Module Owners (tgwiki)
+│   │   │   ├── CRM Power Users (tgwiki)
+│   │   │   ├── CRM and BI User Forum Member List
+│   │   │   ├── Customer_Remarks_Guildelines
+│   │   │   ├── Product and Pricing Committee Member List
+│   │   │   └── Siebel Responsibility Authorization List
+│   │   ├── CS Public Info
+│   │   │   └── Meeting notes
+│   │   │       ├── CS_UF20100223
+│   │   │       ├── CS_UF20100323
+│   │   │       ├── CS_UF20100420
+│   │   │       ├── CS_UF20100518
+│   │   │       ├── CS_UF20100720
+│   │   │       ├── CS_UF20100920
+│   │   │       ├── CS_UF20101118
+│   │   │       ├── CS_UF20110118
+│   │   │       ├── CS_UF20110315
+│   │   │       ├── CS_UF20110517
+│   │   │       ├── CS_UF20110920
+│   │   │       ├── CS_UF20111115
+│   │   │       ├── CS_UF20120117
+│   │   │       ├── CS_UF20120320
+│   │   │       ├── CS_UF20120515
+│   │   │       ├── CS_UF20120717
+│   │   │       ├── CS_UF20120918
+│   │   │       ├── CS_UF20130322
+│   │   │       ├── CS_UF20130516
+│   │   │       ├── CS_UF20130709
+│   │   │       ├── CS_UF20130910
+│   │   │       ├── CS_UF20131112
+│   │   │       ├── CS_UF20140114
+│   │   │       ├── CS_UF20140318
+│   │   │       ├── CS_UF20140516
+│   │   │       ├── CS_UF20140722
+│   │   │       ├── CS_UF20140929
+│   │   │       ├── CS_UF20141202
+│   │   │       ├── CS_UF20150210
+│   │   │       └── CS_UF20150414
+│   │   ├── ERP Public Info
+│   │   │   ├── ERP Archiving Schedule
+│   │   │   │   ├── 2008 ERP Archiving Schedule
+│   │   │   │   ├── 2009 ERP Archiving Schedule
+│   │   │   │   ├── 2010 ERP Archiving Schedule
+│   │   │   │   ├── 2011 ERP Archiving Schedule
+│   │   │   │   ├── 2012 ERP Archiving Schedule
+│   │   │   │   ├── 2013 ERP Archiving Schedule
+│   │   │   │   ├── 2014 ERP Archiving Schedule
+│   │   │   │   ├── 2015 ERP Archiving Schedule
+│   │   │   │   ├── 2016 ERP Archiving Schedule
+│   │   │   │   ├── 2017 ERP Archiving Schedule
+│   │   │   │   └── 2018 ERP Archiving Schedule
+│   │   │   ├── ERP Business Release Schedule
+│   │   │   │   └── ERP Business Release Schedule
+│   │   │   ├── ERP Power User
+│   │   │   │   └── SAP Power User
+│   │   │   ├── ERP Process Owner
+│   │   │   │   └── ERP Process Owner
+│   │   │   ├── ERP User Forum Meeting Minutes
+│   │   │   │   ├── SAPUF20090423
+│   │   │   │   ├── SAPUF20090521
+│   │   │   │   ├── SAPUF20090625
+│   │   │   │   ├── SAPUF20091022
+│   │   │   │   ├── SAPUF20091217
+│   │   │   │   ├── SAPUF20100204
+│   │   │   │   ├── SAPUF20100401
+│   │   │   │   ├── SAPUF20100604
+│   │   │   │   ├── SAPUF20100805
+│   │   │   │   ├── SAPUF20101007
+│   │   │   │   ├── SAPUF20110128
+│   │   │   │   ├── SAPUF20110407
+│   │   │   │   ├── SAPUF20110602
+│   │   │   │   ├── SAPUF20110804
+│   │   │   │   ├── SAPUF20111006
+│   │   │   │   ├── SAPUF20111201
+│   │   │   │   ├── SAPUF20120208
+│   │   │   │   ├── SAPUF20120330
+│   │   │   │   ├── SAPUF20120607
+│   │   │   │   ├── SAPUF20120801
+│   │   │   │   ├── SAPUF20121004
+│   │   │   │   ├── SAPUF20121206
+│   │   │   │   ├── SAPUF20130207
+│   │   │   │   ├── SAPUF20130411
+│   │   │   │   ├── SAPUF20130606
+│   │   │   │   ├── SAPUF20130801
+│   │   │   │   ├── SAPUF20131003
+│   │   │   │   ├── SAPUF20131205
+│   │   │   │   ├── SAPUF20140207
+│   │   │   │   └── SAPUF20140404
+│   │   │   ├── ERP User Forum Schedule
+│   │   │   │   ├── 2008 ERP User Forum Schedule
+│   │   │   │   ├── 2009 ERP User Forum Schedule
+│   │   │   │   ├── 2010 ERP User Forum Schedule
+│   │   │   │   ├── 2011 ERP User Forum Schedule
+│   │   │   │   ├── 2012 ERP User Forum Schedule
+│   │   │   │   ├── 2013 ERP User Forum Schedule
+│   │   │   │   ├── 2014 ERP User Forum Schedule
+│   │   │   │   ├── 2015 ERP User Forum Schedule
+│   │   │   │   └── 2016 ERP User Forum Schedule
+│   │   │   └── Useful Information
+│   │   │       └── Actionable Steps to Accelerating Your Cash Flow
+│   │   │           ├── PrimaryOffer_Final_data_3980_TL_FSCM_50095690_us
+│   │   │           ├── SupportingOffer_CaseStudy_STEF-TFE_RecAndCollectDisputeMng
+│   │   │           └── SupportingOffer_ThoughtLeadership_Technology_Solutions_for_Improving_Cash_and_Liquidity_Management
+│   │   └── TGBI / OLAP Public Info
+│   │       ├── TGBI System Authorization List
+│   │       └── TGBI User
+│   ├── Client Services Manager
+│   ├── Compliment\Complaint
+│   ├── DECC List
+│   ├── ISO 20000 Process Guide
+│   │   ├── BRM_PG4.0
+│   │   ├── BUA_PG2.3
+│   │   ├── CHM_PG.6.2
+│   │   ├── CNM_PG 6.3
+│   │   ├── CPM_PG 2.3
+│   │   ├── INM_PG3.7
+│   │   ├── ISM_PG2.5
+│   │   ├── PRM_PG2.7
+│   │   ├── Processes Integration_v1
+│   │   ├── RLM_PG3.1
+│   │   ├── SCA_PG.3.1
+│   │   ├── SER_PG.2.1
+│   │   ├── SLM_PG2.6
+│   │   └── SPM_PG2.12
+│   ├── IT Service Reports
+│   │   ├── ITD Service Catalogue
+│   │   ├── Service Level Agreement
+│   │   │   ├── SLM_DOC_SLA CMS
+│   │   │   ├── SLM_DOC_SLA CRM
+│   │   │   └── SLM_DOC_SLA ERP
+│   │   ├── Service Level Results
+│   │   │   ├── 2010
+│   │   │   │   ├── Service Level Result - 201001
+│   │   │   │   ├── Service Level Result - 201002
+│   │   │   │   ├── Service Level Result - 201003
+│   │   │   │   ├── Service Level Result - 201004
+│   │   │   │   ├── Service Level Result - 201005
+│   │   │   │   ├── Service Level Result - 201006
+│   │   │   │   ├── Service Level Result - 201007
+│   │   │   │   ├── Service Level Result - 201008
+│   │   │   │   ├── Service Level Result - 201009
+│   │   │   │   ├── Service Level Result - 201010
+│   │   │   │   ├── Service Level Result - 201011
+│   │   │   │   └── Service Level Result - 201012
+│   │   │   ├── 2011
+│   │   │   │   ├── Service Level Result - 201101
+│   │   │   │   ├── Service Level Result - 201102
+│   │   │   │   ├── Service Level Result - 201103
+│   │   │   │   ├── Service Level Result - 201104
+│   │   │   │   ├── Service Level Result - 201105
+│   │   │   │   ├── Service Level Result - 201106
+│   │   │   │   ├── Service Level Result - 201107
+│   │   │   │   ├── Service Level Result - 201108
+│   │   │   │   ├── Service Level Result - 201109
+│   │   │   │   ├── Service Level Result - 201110
+│   │   │   │   ├── Service Level Result - 201111
+│   │   │   │   └── Service Level Result - 201112
+│   │   │   ├── 2012
+│   │   │   │   ├── Service Level Result - 201201
+│   │   │   │   ├── Service Level Result - 201202
+│   │   │   │   ├── Service Level Result - 201203
+│   │   │   │   ├── Service Level Result - 201204
+│   │   │   │   ├── Service Level Result - 201205
+│   │   │   │   ├── Service Level Result - 201206
+│   │   │   │   ├── Service Level Result - 201207
+│   │   │   │   ├── Service Level Result - 201208
+│   │   │   │   ├── Service Level Result - 201209
+│   │   │   │   ├── Service Level Result - 201210
+│   │   │   │   ├── Service Level Result - 201211
+│   │   │   │   └── Service Level Result - 201212
+│   │   │   ├── 2013
+│   │   │   │   ├── Service Level Result - 201301
+│   │   │   │   ├── Service Level Result - 201302
+│   │   │   │   ├── Service Level Result - 201303
+│   │   │   │   ├── Service Level Result - 201304
+│   │   │   │   ├── Service Level Result - 201305
+│   │   │   │   ├── Service Level Result - 201306
+│   │   │   │   ├── Service Level Result - 201307
+│   │   │   │   ├── Service Level Result - 201308
+│   │   │   │   ├── Service Level Result - 201309
+│   │   │   │   ├── Service Level Result - 201310
+│   │   │   │   ├── Service Level Result - 201311
+│   │   │   │   └── Service Level Result - 201312
+│   │   │   ├── 2014
+│   │   │   │   ├── Service Level Result - 201401
+│   │   │   │   ├── Service Level Result - 201402
+│   │   │   │   ├── Service Level Result - 201403
+│   │   │   │   ├── Service Level Result - 201404
+│   │   │   │   ├── Service Level Result - 201405
+│   │   │   │   ├── Service Level Result - 201406
+│   │   │   │   ├── Service Level Result - 201407
+│   │   │   │   ├── Service Level Result - 201408
+│   │   │   │   ├── Service Level Result - 201409
+│   │   │   │   ├── Service Level Result - 201410
+│   │   │   │   ├── Service Level Result - 201411
+│   │   │   │   └── Service Level Result - 201412
+│   │   │   ├── 2015
+│   │   │   │   ├── Service Level Result - 201501
+│   │   │   │   ├── Service Level Result - 201502
+│   │   │   │   ├── Service Level Result - 201503
+│   │   │   │   ├── Service Level Result - 201504
+│   │   │   │   ├── Service Level Result - 201505
+│   │   │   │   ├── Service Level Result - 201506
+│   │   │   │   ├── Service Level Result - 201507
+│   │   │   │   ├── Service Level Result - 201508
+│   │   │   │   ├── Service Level Result - 201509
+│   │   │   │   ├── Service Level Result - 201510
+│   │   │   │   ├── Service Level Result - 201511
+│   │   │   │   └── Service Level Result - 201512
+│   │   │   ├── 2016
+│   │   │   │   ├── Service Level Result - 201601
+│   │   │   │   ├── Service Level Result - 201602
+│   │   │   │   ├── Service Level Result - 201603
+│   │   │   │   ├── Service Level Result - 201604
+│   │   │   │   ├── Service Level Result - 201605
+│   │   │   │   ├── Service Level Result - 201606
+│   │   │   │   ├── Service Level Result - 201607
+│   │   │   │   ├── Service Level Result - 201608
+│   │   │   │   ├── Service Level Result - 201609
+│   │   │   │   ├── Service Level Result - 201610
+│   │   │   │   ├── Service Level Result - 201611
+│   │   │   │   └── Service Level Result - 201612
+│   │   │   ├── 2017
+│   │   │   │   ├── Service Level Result - 201701
+│   │   │   │   ├── Service Level Result - 201702
+│   │   │   │   ├── Service Level Result - 201703
+│   │   │   │   ├── Service Level Result - 201704
+│   │   │   │   ├── Service Level Result - 201705
+│   │   │   │   ├── Service Level Result - 201706
+│   │   │   │   ├── Service Level Result - 201707
+│   │   │   │   ├── Service Level Result - 201708
+│   │   │   │   ├── Service Level Result - 201709
+│   │   │   │   ├── Service Level Result - 201710
+│   │   │   │   ├── Service Level Result - 201711
+│   │   │   │   └── Service Level Result - 201712
+│   │   │   ├── 2018
+│   │   │   │   ├── Service Level Result - 201801
+│   │   │   │   ├── Service Level Result - 201802
+│   │   │   │   ├── Service Level Result - 201803
+│   │   │   │   ├── Service Level Result - 201804
+│   │   │   │   └── Service Level Result - 201805
+│   │   │   ├── Service Level Result - 200903
+│   │   │   ├── Service Level Result - 200904
+│   │   │   ├── Service Level Result - 200905
+│   │   │   ├── Service Level Result - 200906
+│   │   │   ├── Service Level Result - 200907
+│   │   │   ├── Service Level Result - 200908
+│   │   │   ├── Service Level Result - 200909
+│   │   │   ├── Service Level Result - 200910
+│   │   │   ├── Service Level Result - 200911
+│   │   │   └── Service Level Result - 200912
+│   │   └── Services Satisfaction Survey Result
+│   │       ├── 2010 IT Services Satisfaction Survey Report
+│   │       ├── 2011 IT Services Satisfaction Survey Report
+│   │       ├── 2012 IT Services Satisfaction Survey Report
+│   │       ├── 2013 IT Services Satisfaction Survey Report
+│   │       ├── 2015 IT Services Satisfaction Survey Report
+│   │       └── 2017 IT Services Satisfaction Survey Report
+│   └── Service Level Agreement
+│       ├── SLM_DOC_SLA CMS
+│       ├── SLM_DOC_SLA CRM
+│       └── SLM_DOC_SLA ERP
+├── IT Tips
+│   ├── Hardware
+│   │   └── 滑鼠類型簡介
+│   ├── MS Windows, IE & Office
+│   │   ├── Add White list in outlook
+│   │   ├── How to reduce PST file
+│   │   ├── How to reduce ost file
+│   │   ├── Internet Explorer 10 connect OWA
+│   │   ├── Java security config for Lighting system
+│   │   ├── Quick access guide on Towngas OWA
+│   │   ├── Start using Internet Explorer 11
+│   │   ├── To make IE as default browser
+│   │   ├── 保護螢幕幻燈片
+│   │   ├── 做個醒目電郵使用者
+│   │   ├── 如何封存archive郵件
+│   │   ├── 我在工作時經常需要同時開啟多個軟件,導致很多視窗互相交叠在屏幕上-怎樣能把所有視窗一起收下呢
+│   │   ├── 把文件內的簡體字標示拼音
+│   │   ├── 文件開太多-查找無難度
+│   │   ├── 有否方法把我喜歡的Windows Explorer顯示模式成為常設Default呢
+│   │   ├── 活用鍵盤快速鍵
+│   │   ├── 為何有些時間-我不能夠在OWA上刪除電郵呢
+│   │   ├── 為簡報檔案中的圖片輕鬆地除去底色
+│   │   └── 行事曆封存方法
+│   ├── Network
+│   │   └── 怎樣檢查電腦的網路連接是否正常
+│   ├── Others
+│   │   ├── Google 搜尋話咁易
+│   │   ├── rar的壓縮檔公司的IZArc無法解壓-有時在解壓過程中會出現Error的錯誤信息
+│   │   ├── 有什麼簡單的方法-可以減低數碼相片的解像度-從而縮細檔案的大小 (Windows 7 and 10)
+│   │   └── 有什麼簡單的方法-可以減低數碼相片的解像度-從而縮細檔案的大小 (Windows XP)
+│   ├── Printing
+│   │   ├── Print Queue List
+│   │   ├── Print Queue Migration List
+│   │   ├── 為什麼我的文件仍未打印出來
+│   │   └── 點解print出來的文件會轉了樣貌-有什麽解決方法
+│   ├── Security
+│   │   ├── 2014
+│   │   │   ├── InfoSec Tips 20140129 誰洩露我的最爛密碼
+│   │   │   ├── InfoSec Tips 20140402 搵個好密碼
+│   │   │   ├── InfoSec Tips 20140603 襲Android手機放病毒
+│   │   │   ├── InfoSec Tips 20140721資安小錦囊 - 暑假網詐- 這陷阱-這陷阱-偏我遇上
+│   │   │   ├── InfoSec Tips 20141007 你安裝了的Apps是否安全嗎
+│   │   │   └── InfoSec Tips 20141223 佳節網購要小心 免誤中釣魚陷阱
+│   │   ├── 2015
+│   │   │   ├── InfoSec Tips 20150213 葉劉都中招，千祈咪睇小
+│   │   │   ├── InfoSec Tips 20150331 「漁」人節， 小心病毒整蠱你
+│   │   │   ├── InfoSec Tips 20150626 社交工程騙案再現  騙徒假扮公安致電
+│   │   │   ├── InfoSec Tips 20150827 用得公共WiFi 預咗會瀨嘢
+│   │   │   └── InfoSec Tips 20151111 邊有咁大隻蛤乸隨街跳
+│   │   ├── 2016
+│   │   │   ├── InfoSec Tips 20160204 外遊做妥保安3件事-出門旅行安心又寫意
+│   │   │   ├── InfoSec Tips 20160212 上網要小心-慎防惡意程式入侵 
+│   │   │   ├── InfoSec Tips 20160217 電腦中咗招 快行三步曲
+│   │   │   ├── InfoSec Tips 20160307 勒索軟件猖獗-一不留神-分分鐘中招-電腦檔案隨即報廢
+│   │   │   ├── InfoSec Tips 20160322 勒索軟件又變種-提高機覺免中伏
+│   │   │   ├── InfoSec Tips 20160415 停車要熄匙 - 收工要登出-熄機
+│   │   │   ├── InfoSec Tips 20160525 社交工程陷阱篇之 咪以為係VIP-裝咗就低B-WhatsApp黃金版騙局
+│   │   │   ├── InfoSec Tips 20160610 社交工程陷阱篇之真假波士電郵要分清 - 否則騙徒呃錢一鋪清
+│   │   │   ├── InfoSec Tips 20160616 財經透視 對抗黑客
+│   │   │   ├── InfoSec Tips 20160718 究竟為什麼 帳號常被鎖
+│   │   │   ├── InfoSec Tips 20160810 「極度危險」警告 - Android流動設備最新高危漏洞 (QuadRooter)
+│   │   │   └── InfoSec Tips 20161118 網騙肆虐  一Click即中
+│   │   ├── Archive
+│   │   │   ├── Change Windows domain password via Towngas Outlook Web Acc…
+│   │   │   ├── How to change Windows Domain and VPN account Passwords fro…
+│   │   │   ├── How to delegate email system permissions
+│   │   │   ├── How using IZArc to Encrypt and Decrypt the file (Part 2)
+│   │   │   ├── How using IZArc to Encrypt and Decrypt the files
+│   │   │   ├── 如何使用加密籲匙 Corp08Q3 (或稱 Local_Corp08Q3@2008-06-05)加密檔案,以避免在公司以外的電腦無法開啟在移動記憶體內被 Utimaco 加密了的檔案
+│   │   │   ├── 如何在公司以外的電腦-開啟USB removable storage已加密的公司文件
+│   │   │   ├── 我部門經常有些檔案用 USB flash storage或floppy交予承包商-但檔案加密後要開啟-只可以用公司之鑰匙及密碼-請問如何解決
+│   │   │   └── 點解我明明裝咗防病毒軟件都會中毒
+│   │   ├── InfoSec Tips 20170513 黑客勒索軟件 WANNACRY 肆虐全球 近百國及香港受影響 
+│   │   ├── InfoSec Tips 20170515 有關 WannaCry 勒索軟件，給手提電腦同事的忠告
+│   │   ├── InfoSec Tips 20170628 勒索病毒又來-歐洲多國正遭受大量網路攻擊
+│   │   ├── InfoSec Tips 20170811 自己密碼自己改 - Windows Account Self-Service Portal 帳戶自助服務
+│   │   ├── InfoSec Tips 20170901 話送你兩張機票，實騙取個人資料
+│   │   ├── InfoSec Tips 20171004 藍牙爆出大漏洞 全球 53 億個設備中獎
+│   │   ├── InfoSec Tips 20171012 小心手機鏡頭 洩露個人資料
+│   │   ├── InfoSec Tips 20171027 認親認戚的冒充公司lT管理員欺詐電郵又見活躍
+│   │   ├── InfoSec Tips 20171107 九州攻略  定係勒索攻略  縱橫遊資料被黑客上鎖換贖金
+│   │   ├── InfoSec Tips 20180105 再有本港旅行社疑遭黑客入侵
+│   │   ├── InfoSec Tips 20180209 情人節及新春期間  提防黒客惡意攻擊
+│   │   └── InfoSec Tips 20180323 釣魚郵件安全意識演練
+│   └── 數碼講
+├── IT User Guide & Setup Info
+│   ├── Desktop Backup Service
+│   ├── Outlook Web Access Service
+│   ├── Print Queue List
+│   ├── Skype for Business (Unified Communcation)
+│   ├── TowngasDrive User Guide
+│   │   ├── 1. TowngasDrive - Create and share a folder (Quick ref)
+│   │   ├── 2. TowngasDrive - Share a File (Quick Ref)
+│   │   ├── 3. TowngasDrive - Request a File (Quick Ref)
+│   │   ├── 4. TowngasDrive - Forgot Password (Quick Ref)
+│   │   ├── 5. TowngasDrive - For invited parties to upload files (Quick Ref)
+│   │   ├── 6. TowngasDrive - Setup a rule in Outlook (Quick Ref)
+│   │   ├── Towngas - Citrix ShareFile Self-Service End User Guide v1.3
+│   │   └── TowngasDrive - Share Account briefing
+│   └── Wireless Lan
+│       ├── 2012
+│       │   ├── How to Logon CWLAN06 Network through Wireless Connection version 2.2
+│       │   ├── How to Logon CWLAN16 Network through Wireless Connection version 3.0
+│       │   ├── How to Logon EWLAN08 Network through Wireless Connection version 2.1
+│       │   ├── How to Logon EWLAN18 Network through Wireless Connection version 3.0
+│       │   ├── How to Logon GWIFIA2 Network through Wireless Connection version 3.0
+│       │   ├── How to Logon GWLAN02 Network through Wireless Connection version 2.1
+│       │   ├── How to Logon IWIFIA1 Network through Wireless Connection version 3.0
+│       │   ├── How to Logon SWIF09 or SWIFIA9 Network through Wireless Connection version 3.0
+│       │   ├── Wireless_LAN_Service_in_NPB
+│       │   ├── Wireless_LAN_Service_in_NPB version 3.0
+│       │   └── Wireless_LAN_Service_in_NPB version 3.1
+│       ├── Good user email
+│       ├── How to Logon CWLAN16 Network through Wireless Connection version 4.0
+│       ├── How to Logon EWLAN18 Network through Wireless Connection version 4.0
+│       ├── How to Logon GWIFIA2 Network through Wireless Connection version 3.0
+│       ├── How to Logon IWIFIA1 Network through Wireless Connection version 3.0
+│       ├── How to Logon SWIFIA9 Network through Wireless Connection version 3.0
+│       └── Wireless_LAN_Service_in_NPB version 4.0
+├── Info Classification - Confidential
+├── Info Classification - Restricted
+├── Information Classification
+│   ├── Classification List
+│   │   ├── CITD Information Classification
+│   │   ├── Information classification List template
+│   │   ├── Information classification List v1.1 (draft v2)
+│   │   ├── Information classification List v1.1 (draft)
+│   │   ├── Information classification List v1.2 (draft v4)
+│   │   └── Information classification List v1.3
 │   └── Policy
 ├── Information Security
 │   └── Information Security Committee
