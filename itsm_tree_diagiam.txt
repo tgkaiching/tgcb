@@ -1,0 +1,52 @@
+Homepage
+├── Application System
+│   ├── 1.1 Application Enhancement/Services
+│   ├── 1.2 Web Content Change
+│   ├── 1.3 New Application
+│   ├── 1.4 Authorization
+│   ├── 1.5 ERP/CMS (SAP) Authorization
+│   └── 1.6 CRM (Siebel) Authorization
+├── Email Services
+│   ├── 4.1 Create / Rename / Remove Distribution List
+│   ├── 4.2 Create / Rename / Remove Group Email Account
+│   ├── 4.3 Create Individual Email Account / OWA
+│   ├── 4.4 Good For Enterprise
+│   ├── 4.5 Upgrade Mailbox Size
+│   └── 4.6 Change Distribution List Owner / Administrator
+├── Folder and File Management
+│   ├── 2.1 Create / Extend / Rename Public Share Folder
+│   ├── 2.2 Remove Existing Folder
+│   ├── 2.3 Folder Access Right
+│   └── 2.4 Large Size Public Storage
+├── For IT use only
+│   ├── 6.1 Amend Security Group Members
+│   ├── 6.2 Create / Remove Cloud Service
+│   ├── 6.3 Create / Rename / Remove Security Group
+│   ├── 6.4 Internal Request
+│   └── 6.5 Document Approval
+├── More Services
+│   ├── 5.1 E-FAX (Corporate Fax to Email)
+│   ├── 5.10 Telephone Display Name
+│   ├── 5.11 USB Write Permission
+│   ├── 5.12 VDI Service
+│   ├── 5.14 WIFI Access
+│   ├── 5.15 Account Reactivation / LAN access / Internet Access
+│   ├── 5.16 Secure Unified Communication (Skype for Business)
+│   ├── 5.17 Employee Self Service (ESS) & SAP Fiori
+│   ├── 5.18 Desktop / Notebook Backup Service (Cloud)
+│   ├── 5.19 Others
+│   ├── 5.2 IT Equipment (Renovation, Installation, Relocation)
+│   ├── 5.3 LAN access, Internet access creation for device/equipment
+│   ├── 5.4 Leaver
+│   ├── 5.5 Local Admin Access Right Application
+│   ├── 5.6 Network Support (renovation, installation, etc.)
+│   ├── 5.7 Print Queue
+│   ├── 5.8 TowngasDrive (Citrix ShareFile)
+│   └── 5.9 Telephone (renovation, installation, etc)
+├── Staff
+│   ├── 3.1 New Staff
+│   └── 3.2 Staff Movement
+└── User Information
+    ├── ITSM Briefing
+    ├── ITSM Services Menu
+    └── User Guide
