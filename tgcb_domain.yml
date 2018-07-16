@@ -1,0 +1,23 @@
+slots:
+  function:
+    type: text
+
+intents:
+  - Greet
+  - Goodbye
+  - Navigate
+
+enities:
+  - function
+
+templates:
+  utter_greet:
+    - "Hello! I am towngas chatbot! What can I do for you?"
+  utter_goodbye:
+    - "Talk to you later!"
+    - "Bye Bye :("
+
+actions:
+   - utter_greet
+   - utter_goodbye
+   - actions.ActionNavigate

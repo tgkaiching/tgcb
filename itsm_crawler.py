@@ -77,16 +77,17 @@ class ITSM_Crawler():
     def writeToJSONFile(self, path, fileName, data):
         filePathNameWExt = './' + path + '/' + fileName + '.json'
         with open(filePathNameWExt, 'w') as fp:
-            json.dump(data, fp)
+            json.dump(data, fp, ensure_ascii=False)
 
     def main(self):
         _html = self.login()
         soup = BeautifulSoup(_html, "lxml")
         self.getMenu(soup)
         self.ITSM_Tree.show()
-        tree_in_json = self.ITSM_Tree.to_json(with_data=True)
-        tree_in_json = json.dumps(tree_in_json, indent=4, ensure_ascii=False)
-        tree_in_json = json.load(tree_in_json)
+        tree_in_json = self.ITSM_Tree.to_dict(with_data=True)
+        #tree_in_json = json.dumps(tree_in_json, ensure_ascii=False)
+        print(tree_in_json)
+        #tree_in_json = json.load(tree_in_json)
         self.writeToJSONFile('./', 'ITSM_training', tree_in_json)
         self.ITSM_Tree.save2file('itsm_tree_diagiam.txt')
 

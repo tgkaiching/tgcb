@@ -1,0 +1,27 @@
+action_factory: null
+action_names:
+- utter_greet
+- utter_goodbye
+- action_navigate
+actions:
+- utter_greet
+- utter_goodbye
+- actions.ActionNavigate
+config:
+  store_entities_as_slots: true
+entities: []
+intents:
+- Greet
+- Goodbye
+- Navigate
+slots:
+  function:
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+templates:
+  utter_goodbye:
+  - text: Talk to you later!
+  - text: Bye Bye :(
+  utter_greet:
+  - text: Hello! I am towngas chatbot! What can I do for you?
+topics: []

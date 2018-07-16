@@ -1,0 +1,62 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "Hello",
+        "intent": "Greet",
+        "entities": []
+      },
+      {
+        "text": "goodbye",
+        "intent": "Goodbye",
+        "entities": []
+      },
+      {
+        "text": "Where is homepage?",
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 9,
+            "end": 17,
+            "value": "homepage",
+            "entity": "function"
+          }
+        ]
+      },
+      {
+        "text": "How can I get to homepage?",
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 17,
+            "end": 25,
+            "value": "homepage",
+            "entity": "function"
+          }
+        ]
+      },
+      {
+        "text": "Go to Homepage",
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 6,
+            "end": 14,
+            "value": "Homepage",
+            "entity": "function"
+          }
+        ]
+      },
+      {
+        "text": "Hi",
+        "intent": "Greet",
+        "entities": []
+      },
+      {
+        "text": "Bye",
+        "intent": "Goodbye",
+        "entities": []
+      }
+    ]
+  }
+}

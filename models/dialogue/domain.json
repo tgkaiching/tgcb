@@ -1,0 +1,13 @@
+{
+  "states": [
+    "intent_Greet",
+    "intent_Goodbye",
+    "intent_Navigate",
+    "slot_function_0",
+    "prev_action_listen",
+    "prev_action_restart",
+    "prev_utter_greet",
+    "prev_utter_goodbye",
+    "prev_action_navigate"
+  ]
+}

@@ -4,6 +4,8 @@ import re
 import json
 import treelib
 from treelib import Node, Tree
+import jsoncrawl
+from jsoncrawl import node_visitor
 
 
 class DataCrawler():
@@ -22,7 +24,7 @@ class DataCrawler():
     dataTree = None
 
     def __init__(self):
-        self.browser = webdriver.Chrome()
+        # self.browser = webdriver.Chrome()
         self.array = []
         self.dataTree = Tree()
         self.dataTree.create_node("Homepage", "homepage/", data=self.URL)
@@ -167,7 +169,20 @@ class DataCrawler():
         self.writeToJSONFile('./', 'training', tree_in_json)
         self.dataTree.save2file('tree_diagiam.json')
 
+    # def process_node(self, node):
+    #     if(node.)
+
+    def test(self):
+        file_directory = "./ITSM_training.json"
+        json_data=open(file_directory).read()
+        data = json.loads(json_data)
+        hello = node.Tree(tree = data)
+        print(hello)
+        # for unique_key in set(node_visitor(data, self.process_node, element_ch='*')):
+        #     print(unique_key)
+
 if __name__ == "__main__":
     crawler = DataCrawler()
-    crawler.main()
-    crawler.browser.close()
+    # crawler.main()
+    # crawler.browser.close()
+    crawler.test()
