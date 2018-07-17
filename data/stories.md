@@ -42,3 +42,16 @@
    - action_navigate
 * Goodbye
    - utter_goodbye
+
+## story_006
+* Greet
+   - utter_greet
+
+## story_007
+* Navigate[function=Homepage]
+   - slot{"function": "homepage"}
+   - action_navigate
+
+## story_008
+* Goodbye
+   - utter_goodbye

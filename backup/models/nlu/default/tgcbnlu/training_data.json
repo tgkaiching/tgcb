@@ -14,8 +14,8 @@
         "entities": [
           {
             "start": 9,
-            "end": 17,
-            "value": "homepage",
+            "end": 13,
+            "value": "home",
             "entity": "function"
           }
         ],
@@ -26,8 +26,8 @@
         "entities": [
           {
             "start": 17,
-            "end": 25,
-            "value": "homepage",
+            "end": 21,
+            "value": "home",
             "entity": "function"
           }
         ],
@@ -38,12 +38,12 @@
         "entities": [
           {
             "start": 6,
-            "end": 14,
-            "value": "homepage",
+            "end": 10,
+            "value": "home",
             "entity": "function"
           }
         ],
-        "text": "Go to Homepage"
+        "text": "Go to homepage"
       },
       {
         "intent": "Greet",
@@ -59,7 +59,7 @@
           {
             "start": 0,
             "end": 4,
-            "value": "homepage",
+            "value": "home",
             "entity": "function"
           }
         ],
@@ -69,13 +69,13 @@
         "intent": "Navigate",
         "entities": [
           {
-            "start": 3,
-            "end": 7,
-            "value": "homepage",
+            "start": 11,
+            "end": 15,
+            "value": "home",
             "entity": "function"
           }
         ],
-        "text": "go home"
+        "text": "Take me to homepage"
       },
       {
         "intent": "Navigate",
@@ -83,59 +83,23 @@
           {
             "start": 8,
             "end": 12,
-            "value": "homepage",
+            "value": "home",
             "entity": "function"
           }
         ],
-        "text": "where's home?"
+        "text": "browser homepage"
       },
       {
         "intent": "Navigate",
         "entities": [
           {
-            "start": 0,
-            "end": 26,
-            "value": "5.3 lan access, internet access creation for device/equipment",
+            "start": 16,
+            "end": 20,
+            "value": "home",
             "entity": "function"
           }
         ],
-        "text": "LAN access"
-      },
-      {
-        "intent": "Navigate",
-        "entities": [
-          {
-            "start": 21,
-            "end": 28,
-            "value": "5.3 lan access, internet access creation for device/equipment",
-            "entity": "function"
-          }
-        ],
-        "text": "How can I connect my Printer?"
-      },
-      {
-        "intent": "Navigate",
-        "entities": [
-          {
-            "start": 8,
-            "end": 10,
-            "value": "5.3 lan access, internet access creation for device/equipment",
-            "entity": "function"
-          }
-        ],
-        "text": "Connect PC"
-      },
-      {
-        "intent": "Navigate",
-        "entities": [
-          {
-            "start": 15,
-            "end": 22,
-            "value": "Storage",
-            "entity": "function"
-          }
-        ],
-        "text": "How to link to Storage"
+        "text": "I want to go to homepage"
       }
     ],
     "regex_features": [],

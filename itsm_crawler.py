@@ -4,6 +4,8 @@ import re
 import json
 import treelib
 from treelib import Node, Tree
+from anytree import AnyNode, RenderTree, search
+from jsonFormatter import writeToJSON, tree_toJSON
 
 class ITSM_Crawler():
     USERNAME = "kc.suen@towngas.com"
@@ -18,8 +20,8 @@ class ITSM_Crawler():
 
     def __init__(self):
         self.array = []
-        self.ITSM_Tree = Tree()
-        self.ITSM_Tree.create_node("Homepage", "homepage", data=self.URL_PREFIX)
+        self.ITSM_Tree = AnyNode(id=self.HOMEPAGE, url=self.URL_PREFIX)
+        # self.ITSM_Tree.create_node("Homepage", "homepage", data=self.URL_PREFIX)
         options = webdriver.ChromeOptions()
         options.add_experimental_option("prefs", {
             "download.default_directory": "./",
@@ -45,7 +47,7 @@ class ITSM_Crawler():
         html = self.browser.page_source
         return html
 
-    def getMenu(self, soup):
+    def getMenu(self, soup, root):
         menu_item_array = soup.findAll(class_="inner_div")
         for menu_item in menu_item_array:
             link_tag = menu_item.find('a', href=True)
@@ -54,10 +56,10 @@ class ITSM_Crawler():
                 title = img_tag.get('title')
                 _id = title.lower()
                 link = self.URL_PREFIX + link_tag.get('href')
-                self.ITSM_Tree.create_node(title, _id, data=link, parent=self.HOMEPAGE)
+                temp = AnyNode(id=_id, url=link, parent=root)
                 html_to_parse = self.get_HTML_From_URL(link)
                 soup = BeautifulSoup(html_to_parse, "lxml")
-                self.getMenuContent(soup, _id)
+                self.getMenuContent(soup, temp)
 
     def getMenuContent(self, soup, _parent):
         menu_content_array = soup.findAll(class_="cboxlist")
@@ -66,30 +68,23 @@ class ITSM_Crawler():
             id_onclick = menu_content.get('id')
             print(id_onclick)
             title = menu_content.find(class_='boxtitle').get_text()
+            _id = title.lower()
             pre_link = self.browser.current_url
             self.browser.find_element_by_id(id_onclick).click()
             link = self.browser.current_url
             print(title)
             print(link)
-            self.ITSM_Tree.create_node(title, title.lower(), data=link, parent=_parent)
+            temp = AnyNode(id=_id, url=link, parent=_parent)
+            #self.ITSM_Tree.create_node(title, title.lower(), data=link, parent=_parent)
             self.browser.get(pre_link)
-
-    def writeToJSONFile(self, path, fileName, data):
-        filePathNameWExt = './' + path + '/' + fileName + '.json'
-        with open(filePathNameWExt, 'w') as fp:
-            json.dump(data, fp, ensure_ascii=False)
 
     def main(self):
         _html = self.login()
         soup = BeautifulSoup(_html, "lxml")
-        self.getMenu(soup)
-        self.ITSM_Tree.show()
-        tree_in_json = self.ITSM_Tree.to_dict(with_data=True)
-        #tree_in_json = json.dumps(tree_in_json, ensure_ascii=False)
-        print(tree_in_json)
-        #tree_in_json = json.load(tree_in_json)
-        self.writeToJSONFile('./', 'ITSM_training', tree_in_json)
-        self.ITSM_Tree.save2file('itsm_tree_diagiam.txt')
+        self.getMenu(soup, self.ITSM_Tree)
+        json_data = tree_toJSON(self.ITSM_Tree)
+        writeToJSON('ITSM_training', json_data)
+
 
 if __name__ == "__main__":
     crawler = ITSM_Crawler()

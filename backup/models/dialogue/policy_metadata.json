@@ -1,14 +1,12 @@
 {
   "action_fingerprints": {
     "action_listen": {
-      "slots": [
-        "function"
-      ]
-    },
-    "utter_goodbye": {
       "slots": []
     },
     "utter_greet": {
+      "slots": []
+    },
+    "utter_goodbye": {
       "slots": []
     },
     "action_navigate": {
