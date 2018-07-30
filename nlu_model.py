@@ -11,7 +11,7 @@ def train_nlu(data, configs, model_dir):
 	
 def run_nlu():
 	interpreter = Interpreter.load('./models/nlu/default/tgcbnlu')
-	print(interpreter.parse("homepage where?"))
+	print(interpreter.parse("Hello"))
 	
 if __name__ == '__main__':
 	train_nlu('./data/data.json', 'config_spacy.json', './models/nlu')

@@ -32,6 +32,6 @@ def run_tgcb_online(input_channel, interpreter,
 
 
 if __name__ == '__main__':
-    logging.basicConfig(level="INFO")
+    logging.basicConfig(level="DEBUG")
     nlu_interpreter = RasaNLUInterpreter('./models/nlu/default/tgcbnlu')
     run_tgcb_online(ConsoleInputChannel(), nlu_interpreter)

@@ -32,14 +32,14 @@ class ActionNavigate(Action):
 				if(x != length - 1):
 					temp += "\n"
 			response = """Are you looking for...\n{}""".format(temp)		
+		elif (length == 1):
+			url = result_list[0].url
+			title = result_list[0].id
+			response = """I think you are looking for this!\n{}\n{}""".format(title, url)
 		else:
-			try:
-				url = result_list[0].url
-				title = result_list[0].id
-				response = """I think you are looking for this!\n{}\n{}""".format(title, url)
-			except TypeError:
-				url = search.find(self.ITSM_tree, lambda node: ("homepage") == node.id)
-				response = "Sorry! {} is not found! Please checkout our homepage {}".format(func, url)
+			temp = search.find(self.ITSM_tree, lambda node: ("homepage") == node.id)
+			url = temp.url
+			response = "Sorry! {} is not found! Please checkout our homepage {}".format(func, url)
 		# print(response)
 						
 		dispatcher.utter_message(response)

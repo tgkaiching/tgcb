@@ -106,3 +106,61 @@
     - utter_goodbye
     - export
 
+## Generated Story -6341852186053440887
+* Navigate{"function": "document"}
+    - slot{"function": "document"}
+    - action_navigate
+    - slot{"function": null}
+* Navigate{"function": "2.3 folder access right"}
+    - slot{"function": "2.3 folder access right"}
+    - action_navigate
+    - slot{"function": null}
+* Navigate{"function": "2.3 folder access right"}
+    - slot{"function": "2.3 folder access right"}
+    - action_navigate
+    - slot{"function": null}
+* Navigate{"function": "2.3 folder access right"}
+    - slot{"function": "2.3 folder access right"}
+    - action_navigate
+    - slot{"function": null}
+* Navigate{"function": "wifi"}
+    - slot{"function": "wifi"}
+    - action_navigate
+    - slot{"function": null}
+* Navigate{"function": "lab"}
+    - slot{"function": "lab"}
+    - action_navigate
+* Navigate{"function": "lan"}
+    - slot{"function": "lan"}
+    - action_navigate
+    - slot{"function": null}
+* Navigate{"function": "access"}
+    - slot{"function": "access"}
+    - action_navigate
+    - slot{"function": null}
+* Navigate{"function": "homepage"}
+    - slot{"function": "homepage"}
+    - action_navigate
+    - slot{"function": null}
+* Navigate{"function": "wifi"}
+    - slot{"function": "wifi"}
+    - action_navigate
+    - slot{"function": null}
+* Navigate{"function": "lan"}
+    - slot{"function": "lan"}
+    - action_navigate
+    - slot{"function": null}
+* Goodbye
+    - utter_goodbye
+    - export
+
+## Generated Story -4899355214091952139
+* Navigate
+    - utter_greet
+* Navigate{"function": "2.3 folder access right"}
+    - slot{"function": "2.3 folder access right"}
+    - action_navigate
+    - slot{"function": null}
+* Navigate
+    - export
+

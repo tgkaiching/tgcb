@@ -9,7 +9,8 @@ intents:
 
 enities:
   - function
-
+  - staff
+  
 templates:
   utter_greet:
     - "Hello! I am towngas chatbot! What can I do for you?"

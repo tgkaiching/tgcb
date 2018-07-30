@@ -1,5 +1,14 @@
 {
   "rasa_nlu_data": {
+    "entity_synonyms": {
+      "value": "2.3 folder access right",
+      "synonyms": [
+        "file",
+        "directory",
+        "document",
+        "docs"
+      ]
+    },
     "common_examples": [
       {
         "text": "Hello",
@@ -53,7 +62,7 @@
         "entities": []
       },
       {
-        "text": "Bye",
+        "text": "bye",
         "intent": "Goodbye",
         "entities": []
       },
@@ -140,6 +149,47 @@
             "entity": "function"
           }
         ]
+      },
+      {
+        "text": "I want to access folder",
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 17,
+            "end": 23,
+            "value": "2.3 folder access right",
+            "entity": "function"
+          }
+        ]
+      },
+      {
+        "text": "How can I access folder",
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 17,
+            "end": 23,
+            "value": "2.3 folder access right",
+            "entity": "function"
+          }
+        ]
+      },
+      {
+        "text": "access folder",
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 7,
+            "end": 13,
+            "value": "2.3 folder access right",
+            "entity": "function"
+          }
+        ]
+      },
+      {
+        "text": "what's up",
+        "intent": "Greet",
+        "entities": []
       }
     ]
   }
