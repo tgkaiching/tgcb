@@ -5,13 +5,13 @@
         "function"
       ]
     },
-    "action_navigate": {
-      "slots": []
-    },
     "utter_goodbye": {
       "slots": []
     },
     "utter_greet": {
+      "slots": []
+    },
+    "action_navigate": {
       "slots": []
     }
   },

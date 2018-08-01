@@ -130,12 +130,12 @@
         "entities": [
           {
             "start": 15,
-            "end": 22,
-            "value": "Storage",
+            "end": 19,
+            "value": "5.3 lan access, internet access creation for device/equipment",
             "entity": "function"
           }
         ],
-        "text": "How to link to Storage"
+        "text": "How to link my iPad to internet "
       },
       {
         "intent": "Navigate",
@@ -166,16 +166,568 @@
         "entities": [
           {
             "start": 7,
-            "end": 13,
+            "end": 15,
             "value": "2.3 folder access right",
             "entity": "function"
           }
         ],
-        "text": "access folder"
+        "text": "access document document"
       },
       {
         "intent": "Greet",
         "text": "what's up"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 17,
+            "end": 32,
+            "value": "1.3 new application",
+            "entity": "function"
+          }
+        ],
+        "text": "I want to create new application"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 18,
+            "end": 21,
+            "value": "1.6 crm (siebel) authorization",
+            "entity": "function"
+          }
+        ],
+        "text": "I want access for CRM"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 18,
+            "end": 50,
+            "value": "1.6 crm (siebel) authorization",
+            "entity": "function"
+          }
+        ],
+        "text": "I want access for Customer Relationship Management"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "1.6 crm (siebel) authorization",
+            "entity": "function"
+          }
+        ],
+        "text": "siebel"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 14,
+            "end": 20,
+            "value": "1.6 crm (siebel) authorization",
+            "entity": "function"
+          }
+        ],
+        "text": "I want to use Siebel"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 14,
+            "end": 17,
+            "value": "1.6 crm (siebel) authorization",
+            "entity": "function"
+          }
+        ],
+        "text": "How can I get CRM Authorization "
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 14,
+            "end": 46,
+            "value": "1.6 crm (siebel) authorization",
+            "entity": "function"
+          }
+        ],
+        "text": "How can I get Customer Relationship Management Authorization "
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 0,
+            "end": 3,
+            "value": "1.6 crm (siebel) authorization",
+            "entity": "function"
+          }
+        ],
+        "text": "CRM Authorization"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 24,
+            "end": 30,
+            "value": "1.6 crm (siebel) authorization",
+            "entity": "function"
+          }
+        ],
+        "text": "I want authorisation of Siebel"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 17,
+            "end": 20,
+            "value": "1.3 new application",
+            "entity": "function"
+          }
+        ],
+        "text": "I want to create app"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 11,
+            "end": 22,
+            "value": "1.3 new application",
+            "entity": "function"
+          }
+        ],
+        "text": "Create new application"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 9,
+            "end": 20,
+            "value": "1.3 new application",
+            "entity": "function"
+          }
+        ],
+        "text": "Make new application"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 21,
+            "end": 32,
+            "value": "1.3 new application",
+            "entity": "function"
+          }
+        ],
+        "text": "I want to make a new application"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 27,
+            "end": 34,
+            "value": "3.1 new staff",
+            "entity": "function"
+          }
+        ],
+        "text": "I want to make a new staff account "
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 25,
+            "end": 32,
+            "value": "3.1 new staff",
+            "entity": "function"
+          }
+        ],
+        "text": "I want to create a staff account"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 18,
+            "end": 30,
+            "value": "3.1 new staff",
+            "entity": "function"
+          }
+        ],
+        "text": "request new staff user account"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 16,
+            "end": 23,
+            "value": "3.1 new staff",
+            "entity": "function"
+          }
+        ],
+        "text": "create new user account"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 13,
+            "end": 18,
+            "value": "3.1 new staff",
+            "entity": "function"
+          }
+        ],
+        "text": "I have a new staff"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 11,
+            "end": 19,
+            "value": "5.3 lan access, internet access creation for device/equipment",
+            "entity": "function"
+          }
+        ],
+        "text": "connect my notebook"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 18,
+            "end": 24,
+            "value": "5.3 lan access, internet access creation for device/equipment",
+            "entity": "function"
+          }
+        ],
+        "text": "Linkage of my new device"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 15,
+            "end": 24,
+            "value": "5.3 lan access, internet access creation for device/equipment",
+            "entity": "function"
+          }
+        ],
+        "text": "Connect my new equipment to LAN"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 19,
+            "end": 27,
+            "value": "5.3 lan access, internet access creation for device/equipment",
+            "entity": "function"
+          }
+        ],
+        "text": "I can't connect my hardware"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 17,
+            "end": 23,
+            "value": "5.3 lan access, internet access creation for device/equipment",
+            "entity": "function"
+          }
+        ],
+        "text": "I cannot link my device to the Internet"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 21,
+            "end": 27,
+            "value": "5.3 lan access, internet access creation for device/equipment",
+            "entity": "function"
+          }
+        ],
+        "text": "How can I connect my laptop to the Internet"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 15,
+            "end": 26,
+            "value": "5.3 lan access, internet access creation for device/equipment",
+            "entity": "function"
+          }
+        ],
+        "text": "LAN access for writing pad"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 23,
+            "end": 28,
+            "value": "5.3 lan access, internet access creation for device/equipment",
+            "entity": "function"
+          }
+        ],
+        "text": "Internet access for my phone"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "5.3 lan access, internet access creation for device/equipment",
+            "entity": "function"
+          }
+        ],
+        "text": "tablet LAN connection"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 4,
+            "end": 10,
+            "value": "5.3 lan access, internet access creation for device/equipment",
+            "entity": "function"
+          }
+        ],
+        "text": "new device connection"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 4,
+            "end": 13,
+            "value": "5.3 lan access, internet access creation for device/equipment",
+            "entity": "function"
+          }
+        ],
+        "text": "new projector LAN access"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 10,
+            "end": 16,
+            "value": "5.3 lan access, internet access creation for device/equipment",
+            "entity": "function"
+          }
+        ],
+        "text": "Help with device connection"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 13,
+            "end": 19,
+            "value": "5.3 lan access, internet access creation for device/equipment",
+            "entity": "function"
+          }
+        ],
+        "text": "help me with gadget internet access"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 0,
+            "end": 3,
+            "value": "1.3 new application",
+            "entity": "function"
+          }
+        ],
+        "text": "1.3"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 0,
+            "end": 3,
+            "value": "1.6 crm (siebel) authorization",
+            "entity": "function"
+          }
+        ],
+        "text": "1.6"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 0,
+            "end": 3,
+            "value": "LAN",
+            "entity": "function"
+          }
+        ],
+        "text": "LAN access"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "Internet",
+            "entity": "function"
+          }
+        ],
+        "text": "Internet connection"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 0,
+            "end": 3,
+            "value": "lan",
+            "entity": "function"
+          }
+        ],
+        "text": "lan"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "Internet",
+            "entity": "function"
+          }
+        ],
+        "text": "Internet"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 17,
+            "end": 20,
+            "value": "lan",
+            "entity": "function"
+          }
+        ],
+        "text": "I want to access lan"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 25,
+            "end": 33,
+            "value": "Internet",
+            "entity": "function"
+          }
+        ],
+        "text": "I want to connect to the Internet"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 4,
+            "end": 11,
+            "value": "5.3 lan access, internet access creation for device/equipment",
+            "entity": "function"
+          }
+        ],
+        "text": "new printer lan access"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 4,
+            "end": 11,
+            "value": "5.3 lan access, internet access creation for device/equipment",
+            "entity": "function"
+          }
+        ],
+        "text": "new product Internet access"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 4,
+            "end": 10,
+            "value": "device",
+            "entity": "function"
+          }
+        ],
+        "text": "new device"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 5,
+            "end": 9,
+            "value": "5.3",
+            "entity": "function"
+          }
+        ],
+        "text": "Go to 5.3"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 11,
+            "end": 14,
+            "value": "1.3",
+            "entity": "function"
+          }
+        ],
+        "text": "Take me to 1.3"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 17,
+            "end": 23,
+            "value": "2.3 folder access right",
+            "entity": "function"
+          }
+        ],
+        "text": "I want to access folder folder"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 19,
+            "end": 28,
+            "value": "2.3 folder access right",
+            "entity": "function"
+          }
+        ],
+        "text": "I want to checkout directory directory"
       }
     ],
     "regex_features": [],
