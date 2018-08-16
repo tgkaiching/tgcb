@@ -709,25 +709,49 @@
         "intent": "Navigate",
         "entities": [
           {
-            "start": 17,
-            "end": 23,
-            "value": "2.3 folder access right",
-            "entity": "function"
-          }
-        ],
-        "text": "I want to access folder folder"
-      },
-      {
-        "intent": "Navigate",
-        "entities": [
-          {
-            "start": 19,
+            "start": 22,
             "end": 28,
             "value": "2.3 folder access right",
             "entity": "function"
           }
         ],
-        "text": "I want to checkout directory directory"
+        "text": "I want to access CITD folder "
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 32,
+            "end": 36,
+            "value": "2.3 folder access right",
+            "entity": "function"
+          }
+        ],
+        "text": "I want to checkout the business file"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 31,
+            "end": 40,
+            "value": "2.3 folder access right",
+            "entity": "function"
+          }
+        ],
+        "text": "I want to access annual report directory"
+      },
+      {
+        "intent": "Navigate",
+        "entities": [
+          {
+            "start": 18,
+            "end": 24,
+            "value": "2.3 folder access right",
+            "entity": "function"
+          }
+        ],
+        "text": "financial summary folder access"
       }
     ],
     "regex_features": [],

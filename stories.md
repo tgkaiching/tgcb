@@ -618,3 +618,21 @@
 * Goodbye
     - export
 
+## Generated Story 6364938114131014829
+* Greet
+    - utter_greet
+* Navigate{"function": "2.3 folder access right"}
+    - slot{"function": "2.3 folder access right"}
+    - action_navigate
+    - slot{"function": null}
+* Navigate{"function": "2.3 folder access right"}
+    - slot{"function": "2.3 folder access right"}
+    - action_navigate
+    - slot{"function": null}
+* Navigate
+    - action_navigate
+    - slot{"function": null}
+* Goodbye
+    - utter_goodbye
+    - export
+

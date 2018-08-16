@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>WebSocket demo</title>
+    </head>
+    <body>
+        <script>
+            var ws = new WebSocket("ws://adfs.sts.towngas.com/adfs/ls/?wa=wsignin1.0&wtrealm=https%3a%2f%2fitsm.towngas.com%2f&wctx=rm%3d0%26id%3dpassive%26ru%3d%252fdefault.html&wct=2018-08-01T04%3a15%3a16Z"),
+                messages = document.createElement('ul');
+            ws.onmessage = function (event) {
+                var messages = document.getElementsByTagName('ul')[0],
+                    message = document.createElement('li'),
+                    content = document.createTextNode(event.data);
+                message.appendChild(content);
+                messages.appendChild(message);
+            };
+            document.body.appendChild(messages);
+        </script>
+    </body>
+</html>

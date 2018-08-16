@@ -5,10 +5,10 @@
         "function"
       ]
     },
-    "utter_goodbye": {
+    "utter_greet": {
       "slots": []
     },
-    "utter_greet": {
+    "utter_goodbye": {
       "slots": []
     },
     "action_navigate": {

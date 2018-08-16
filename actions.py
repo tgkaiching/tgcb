@@ -37,6 +37,7 @@ class ActionNavigate(Action):
 				url = result_list[0].url
 				title = result_list[0].id
 				response = """I think you are looking for this!\n{}\n{}""".format(title, url)
+
 			else:
 				temp = search.find(self.ITSM_tree, lambda node: ("homepage") == node.id)
 				url = temp.url
